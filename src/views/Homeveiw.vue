@@ -19,7 +19,7 @@
               ابدء الاستخدام مجانا
             </a>
           </div>
-          <div class="d-flex align-items-center gap-4 mt-4">
+          <div class="d-flex align-items-center flex-wrap gap-2 gap-lg-4 mt-4">
             <p class="fw-bold fs-5">
               <span>
                 <i class="bi bi-check-circle-fill"></i>
@@ -148,7 +148,7 @@
           </div>
         </div>
         <div class="bg-color my-5  rounded-4">
-          <div class="d-flex align-items-center justify-content-between">
+          <div class="d-md-flex align-items-center justify-content-between">
             <div>
               <h3 class="text-white fw-bold mb-3">
                 نظام متكامل قابل للتخصيص
@@ -162,7 +162,7 @@
               </p>
             </div>
             <a href="/"
-              class="btn btn-primary rounded-4 py-3 mt-3 fw-bold text-center text-md-start animate__animated animate__slideInUp animate__slower 2s"
+              class="btn btn-primary rounded-4 py-2 py-lg-3 py-md-1 mt-3  fw-bold text-center text-md-start animate__animated animate__slideInUp animate__slower 2s"
               title="استشارة مجانية" aria-label="استشارة مجانية" target="_blank" rel="noopener noreferrer">
               ابدء الاستخدام مجانا
             </a>
@@ -370,9 +370,9 @@
           </div>
         </div>
         <div class="bg-color my-5  rounded-4">
-          <div class="d-flex align-items-center justify-content-between">
-            <div>
-              <h2 class="text-white fw-bold mb-3">
+          <div class="d-lg-flex align-items-center justify-content-between">
+            <div >
+              <h2 class="text-white  fw-bold mb-3">
                 واجهة سهلة الاستخدام بميزات متعددة
               </h2>
               <p class="fw-bold  text-white fs-4">
@@ -380,7 +380,7 @@
               </p>
             </div>
             <a href="/"
-              class="btn btn-primary rounded-4 py-3 mt-3 fw-bold text-center text-md-start animate__animated animate__slideInUp animate__slower 2s"
+              class="btn btn-primary rounded-4 py-2 py-lg-3 py-md-1 mt-3 fw-bold text-center text-md-start animate__animated animate__slideInUp animate__slower 2s"
               title="استشارة مجانية" aria-label="استشارة مجانية" target="_blank" rel="noopener noreferrer">
               ابدء الاستخدام مجانا
             </a>
@@ -516,7 +516,7 @@
       <div class="text-home">
         <div class="container">
           <div class="row pb-0  gap-lg-3 position-relative">
-            <div class="col-lg-6 col-md-6 mt-0 mt-lg-5  ms-2 mb-5 mb-md-0 order-1 order-md-0">
+            <div class="col-lg-6 col-md-6  mt-0 mt-lg-5  ms-2 mb-5 mb-md-0 order-1 order-md-0">
               <div>
                 <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
                   برنامج إدارة<span class="text-blue">
@@ -534,7 +534,7 @@
                   بأول.
                 </p>
               </div>
-              <div class="d-flex  flex-column mt-2 mb-5 mx-2">
+              <div class="d-flex  flex-lg-column flexsm  gap-3 flex-wrap  mt-2 mb-5 mx-2">
                 <div class="d-flex align-items-center gap-2">
                   <img src="../assets/images/h_icon2.png" alt="invoice" width="30" class="img-fluid"
                     style="max-width: 40px;">
@@ -572,21 +572,21 @@
                 <img src="../assets/images/circles-r.webp" alt="circles" class="img-fluid">
               </div>
             </div>
-            <div class="col-lg-5 col-md-6">
+            <div class="col-lg-5 col-md-5">
               <img src="../assets/images/home-hrm-sc.webp" alt="moon"
-                class="img-fluid h-75 mt-5 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
+                class="img-fluid  mt-5 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
                 title="moon" />
             </div>
           </div>
         </div>
       </div>
     </div>
-    <div class="bg-color2 mb-5  rounded-4">
-      <div class="d-flex align-items-center justify-content-evenly">
+    <div class="bg-color2 mb-5   rounded-4">
+      <div class="d-lg-flex align-items-center justify-content-evenly">
         <div>
           <img src="../../public/Z4U_White.png" alt="" width="300" class="img-fluid">
         </div>
-        <div class="d-flex flex-column g-3">
+        <div class="d-flex flex-column text-sm-center justify-content-center g-3">
           <h2 class="fw-bold text-white ">
             احصل على تجربتك المجانية
           </h2>
@@ -594,7 +594,7 @@
             سجِّل حسابك في دفترة في خطوات بسيطة من دون الحاجة إلى بطاقة ائتمان
           </p>
           <a href="/"
-            class="btn btn-primary rounded-4 py-2 w-50 mt-3 fw-bold  animate__animated animate__slideInUp animate__slower 2s"
+            class="btn btn-primary rounded-4 py-2 col-12  mt-3 fw-bold  animate__animated animate__slideInUp animate__slower 2s"
             title="استشارة مجانية" aria-label="استشارة مجانية" target="_blank" rel="noopener noreferrer">
             ابدء الاستخدام مجانا
           </a>
@@ -828,7 +828,7 @@
       </div>
       <div class="bg-settings">
         <div class="row mt-3 d-flex align-items-center gap-5 ">
-          <div class="col-lg-6 col-md-6 col-12">
+          <div class="col-lg-6 col-md-5 col-12">
             <h2 class="fw-bold text-black lh-base">
               واجهة استخدام قابلة <br> للتخصيص بالكامل
             </h2>
@@ -839,7 +839,7 @@
               للتخصيص بالكامل في كل الحقول والبنود المضمَّنة فيها عند طباعتها أو إرسالها إلى عملائك.
             </p>
           </div>
-          <div class="col-lg-5 col-md-6 col-12">
+          <div class="col-lg-5 col-md-5 col-12">
             <img src="../assets/images/home-interface.png" alt="home-interface" class="img-fluid">
           </div>
         </div>
@@ -866,7 +866,7 @@
     </section>
     <div class="container">
       <div class="bg-color mtt  rounded-4">
-        <div class="d-flex align-items-center justify-content-between">
+        <div class="d-md-flex align-items-center justify-content-between">
           <div>
             <h3 class="text-white lh-base fw-bold mb-3">
               لا حاجة لامتلاك معرفة عميقة في المحاسبة للعمل على البرنامج
@@ -880,7 +880,7 @@
             </p>
           </div>
           <a href="/"
-            class="btn btn-primary rounded-4 py-3 mt-3 fw-bold text-center text-md-start animate__animated animate__slideInUp animate__slower 2s"
+            class="btn btn-primary rounded-4 py-3 py-lg-3 py-md-1 ms-md-1 mt-3 fw-bold text-center text-md-start animate__animated animate__slideInUp animate__slower 2s"
             title="استشارة مجانية" aria-label="استشارة مجانية" target="_blank" rel="noopener noreferrer">
             ابدء الاستخدام مجانا
           </a>
@@ -889,7 +889,7 @@
     </div>
     <div class="container w-75">
       <div class="row my-5 d-flex align-items-center gap-5 ">
-        <div class="col-lg-6 col-md-6 col-12">
+        <div class="col-lg-6 col-md-5 col-12">
           <h2 class="fw-bold text-black lh-base">
             حمِّل تطبيق دفترة
             <br> للهواتف الذكية مجانًا
@@ -905,7 +905,7 @@
             <img src="../assets/images/huawei.webp" alt="huawei.webp" width="150" class="img-fluid">  
           </div>
         </div>
-        <div class="col-lg-5 col-md-6 col-12">
+        <div class="col-lg-5 col-md-5 col-12">
           <img src="../assets/images/download-img.webp" alt="home-interface" class="img-fluid">
         </div>
       </div>
