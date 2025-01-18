@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-12 text-center">
         <img
-          src="../assets/images/logo.webp"
+          src="../assets/images/logo.png"
           :alt="$t('notFound.altText')"
           class="img-fluid m-auto"
           width="150"
