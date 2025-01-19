@@ -534,7 +534,7 @@
                   بأول.
                 </p>
               </div>
-              <div class="d-flex  flex-lg-column flexsm  gap-3 flex-wrap  mt-2 mb-5 mx-2">
+              <div class="d-flex  flex-column  gap-3  gap-lg-0 flex-wrap  mt-2 mb-5 mx-2">
                 <div class="d-flex align-items-center gap-2">
                   <img src="../assets/images/h_icon2.png" alt="invoice" width="30" class="img-fluid"
                     style="max-width: 40px;">
@@ -551,7 +551,6 @@
                   <img src="../assets/images/h_icon1.png" alt="invoice" width="25" class="img-fluid"
                     style="max-width: 40px;">
                   <p class="fw-bold fs-4 text-black mt-2">المرتبات
-
                   </p>
                 </div>
                 <div class="d-flex align-items-center gap-2">
