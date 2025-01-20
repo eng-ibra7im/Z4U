@@ -14,6 +14,11 @@ const router = createRouter({
       path: '/contact-us',
       component: () => import('../views/ContactView.vue'),
     },
+    {
+      name: 'sales',
+      path: '/sales',
+      component: () => import('../views/SalesView.vue'),
+    },
     // not found
     {
       name: 'not-found',

@@ -16,7 +16,7 @@
                 </RouterLink>
               </li>
               <li>
-                <RouterLink to="/dd" class="ms-3 cursor-pointer" exact-active-class="text-primary" title="works"
+                <RouterLink to="/sales" class="ms-3 cursor-pointer" exact-active-class="text-primary" title="works"
                   aria-label="works">
                   مجالات العمل
                 </RouterLink>
