@@ -10,19 +10,19 @@
           <div class="d-lg-flex justify-content-between  d-none col-xl-8 col-lg-9">
             <ul class="list-unstyled d-flex align-items-center mb-0 fw-bold me-auto gap-3">
               <li>
-                <RouterLink to="/blogs" class="ms-3 cursor-pointer" exact-active-class="text-primary" title="blog"
+                <RouterLink to="/fff" class="ms-3 cursor-pointer" exact-active-class="text-primary" title="blog"
                   aria-label="blog">
                   البرامج
                 </RouterLink>
               </li>
               <li>
-                <RouterLink to="/contact-us" class="ms-3 cursor-pointer" exact-active-class="text-primary" title="works"
+                <RouterLink to="/dd" class="ms-3 cursor-pointer" exact-active-class="text-primary" title="works"
                   aria-label="works">
                   مجالات العمل
                 </RouterLink>
               </li>
               <li>
-                <RouterLink to="/contact-us" class="ms-3 cursor-pointer" exact-active-class="text-primary" title="price"
+                <RouterLink to="/ss" class="ms-3 cursor-pointer" exact-active-class="text-primary" title="price"
                   aria-label="price">
                   الأسعار
                 </RouterLink>
@@ -34,7 +34,7 @@
                 </RouterLink>
               </li>
               <li>
-                <RouterLink to="/contact-us" class="ms-1 cursor-pointer fs-5" exact-active-class="text-primary"
+                <RouterLink to="/us" class="ms-1 cursor-pointer fs-5" exact-active-class="text-primary"
                   title="menu-bar" aria-label="menu-bar">
                   <i class="bi bi-list"></i>
                 </RouterLink>
