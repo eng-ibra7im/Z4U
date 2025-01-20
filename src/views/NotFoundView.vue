@@ -10,12 +10,12 @@
           height="150"
           :title="$t('notFound.altText')"
         />
-        <h1 class="text-light display-2 fw-bold">404</h1>
-        <h2 class="text-light">{{ $t("notFound.title") }}</h2>
+        <h1 class="text-black-50 display-2 fw-bold">404</h1>
+        <h2 class="text-black-50">{{ $t("notFound.title") }}</h2>
         <p class="text-muted">{{ $t("notFound.message") }}</p>
         <RouterLink
           to="/"
-          class="btn btn-primary mt-3 m-auto"
+          class="btn btn-secondary mt-3 m-auto"
           :title="$t('notFound.backToHome')"
           :aria-label="$t('notFound.backToHome')"
           :name="$t('notFound.backToHome')"
