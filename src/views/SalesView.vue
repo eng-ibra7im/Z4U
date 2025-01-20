@@ -14,7 +14,7 @@
                         الولاء وإرسال الرسائل الترويجية للعملاء بشكل آلي.
                     </p>
                     <ul
-                        class="d-flex flex-column flex-lg-column flex-md-row gap-md-3 gap-0 gap-lg-0  mt-3 fs-5 fw-bold lh-base">
+                        class="d-flex flex-column flex-lg-column flex-md-row gap-md-3 gap-0 gap-lg-0  mt-3 fs-5 fw-bold lh-base animate__animated animate__slideInRight animate__slower 2s ">
                         <li class="my-1">إصدار الفواتير الإلكترونية المعتمدة بسهولة.</li>
                         <li class="my-1">إصدار عروض الأسعار للعملاء ورهن تحويلها لفاتورة بموافقة العميل.
                         </li>
