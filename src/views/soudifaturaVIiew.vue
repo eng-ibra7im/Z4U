@@ -1,110 +1,69 @@
 <template>
     <main class="overflow-hidden">
-        <div class="bg-color2 mb-5 mt-3 rounded-4">
-            <div class="container">
-                <div class="row pb-0 gap-lg-3">
-                    <h1 class="fw-bold text-white">
-                        برنامج نقاط البيع - POS
-                    </h1>
-                    <div class="col-lg-6 col-md-6 mt-0 mt-lg-4 mb-5 mb-md-0 order-1 order-md-0">
-                        <ul
-                            class="d-flex flex-column list-unstyled flex-lg-column flex-md-row gap-md-3 gap-0 gap-lg-0  mt-3 fs-5 fw-bold lh-base animate__animated animate__slideInRight animate__slower 2s ">
-                            <li>
-                                <p class="fw-bold text-white fs-5">
-                                    <span>
-                                        <i class="bi bi-check-circle-fill me-1"></i>
-                                    </span>
-                                    إصدار الإيصالات والفواتير الإلكترونية.
-                                </p>
-                            </li>
-                            <li>
-                                <p class="fw-bold text-white fs-5">
-                                    <span>
-                                        <i class="bi bi-check-circle-fill me-1"></i>
-                                    </span>
-                                    إمكانية العمل عبر نسخة مكتبية دون الحاجة للإتصال الدائم بالإنترنت
-                                </p>
-                            </li>
-                            <li>
-                                <p class="fw-bold text-white fs-5">
-                                    <span>
-                                        <i class="bi bi-check-circle-fill me-1"></i>
-                                    </span>
-                                    يعمل على الجوالات والأجهزة المكتبية واللوحية والهاند هيلد مع نظام ربط متكامل
-                                </p>
-                            </li>
-                            <li>
-                                <p class="fw-bold text-white fs-5">
-                                    <span>
-                                        <i class="bi bi-check-circle-fill me-1"></i>
-                                    </span>
-                                    دعم وحدات القياس المتعددة والباركود.
-                                </p>
-                            </li>
-                            <li>
-                                <p class="fw-bold text-white fs-5">
-                                    <span>
-                                        <i class="bi bi-check-circle-fill me-1"></i>
-                                    </span>
-                                    يدعم التتبع برقم السيريال وتاريخ الصلاحية.
-                                </p>
-                            </li>
-                            <li>
-                                <p class="fw-bold text-white fs-5">
-                                    <span>
-                                        <i class="bi bi-check-circle-fill me-1"></i>
-                                    </span>
-                                    دعم جميع أنواع الطابعات وأجهزة الباركود، وقراءة باركود الأوزان.
-                                </p>
-                            </li>
-                            <li>
-                                <p class="fw-bold text-white fs-5">
-                                    <span>
-                                        <i class="bi bi-check-circle-fill me-1"></i>
-                                    </span>
-                                    متكامل مع برامج إدارة العملاء والمخزون و الحسابات العامة.
-                                </p>
-                            </li>
-                        </ul>
-                        <div
-                            class="d-flex align-items-center gap-2 mt-4 justify-content-center justify-content-lg-start w-auto me-auto">
-                            <a href="/"
-                                class="btn btn-primary rounded-1 pt-2 pb-2 mt-3 fw-bold text-center text-lg-start animate__animated animate__slideInUp animate__slower 2s"
-                                title="ابدء الاستخدام مجانا" aria-label="ابدء الاستخدام مجانا "
-                                rel="noopener noreferrer">
-                                ابدء الاستخدام مجانا
-                            </a>
-                            <a href="/"
-                                class="btn btn-outline-info rounded-1 pt-2 px-3 pb-2 mt-3 fw-bold text-center text-lg-start animate__animated animate__slideInUp animate__slower 2s"
-                                title="" aria-label="" rel="noopener noreferrer">
-                                جولة سريعه
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/module-pos-featured-intro-vector-rtl.webp" alt="moon"
-                            class="img-fluid  rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
-                            title="moon" style="max-width: 100% ; height: auto; border-radius: 1.4rem;" />
-                    </div>
-                </div>
-            </div>
-        </div>
         <div class="container">
-            <div class="row pb-0 mt-5 gap-lg-3">
+            <div class="row pb-0  gap-lg-3">
                 <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
-                    <h2 class="text-black fw-bolder lh-base  mb-2 text-center text-md-start">
-                        برنامج نقاط البيع POS - برنامج كاشير لجميع المحلات التجارية
-                    </h2>
+                    <h1 class="text-black fw-bolder lh-base  mb-2 text-center text-md-start">
+                        برنامج الفاتورة الإلكترونية السعودية - هيئة الزكاة والدخل
+                    </h1>
                     <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                        برنامج فواتير بسيط ومجاني لمدة أسبوعين كفترة تجريبية، ويعينك برنامج فواتير Z4U على إصدار
-                        فواتير معتمدة باللغة العربية والإنجليزية من خلال واجهة استخدام سهلة وسريعة الاستجابة. ولأن أكثر
-                        ما يميز أي برنامج لعمل الفواتير أن يسهل تخصيصه ليلائم تماماً احتياجات عملك ويلبي متطلباتك، يتوفر
-                        Z4U لأكثر من 50 مجال عمل مع أدوات تخصيص مرنة تجعل النظام يعمل تمامًا كما تريد.
+                        يعد برنامج الفاتورة الالكترونية من Z4U أحد الحلول البرمجية الرائدة في مجال إدارة الحسابات
+                        والأعمال التي تفي بمتطلبات هيئة الزكاة والدخل لإصدار الفواتير الإلكترونية بسهولة. حيث يمكنك
+                        متابعة مبيعاتك وحساباتك وعملائك ومخازنك وموظفيك متابعة دقيقة وبشكل مخصص حسب مجال عملك، ونتابع في
+                        Z4U جميع التحديثات والمتطلبات المصدرة من الهيئة وتضمنيها في البرنامج أولاً بأول مجاناً
+                        لمستخدمي البرنامج.
                     </p>
+                    <ul
+                        class="d-flex flex-column flex-lg-column flex-md-row gap-md-3 gap-0 gap-lg-0  mt-3 fs-5 fw-bold lh-base animate__animated animate__slideInRight animate__slower 2s ">
+                        <li class="my-1">
+                            يمكنك استخدام برنامج الفاتورة الإلكترونية مجانًا لمدة 14 يوم.
+                        </li>
+                        <li class="my-1">
+                            الربط مع منظومة الفاتورة الإلكترونية السعودية بشكل متوافق مع متطلبات المرحلة الأولى
+                            والثانية.
+                        </li>
+                        <li class="mt-1">
+                            توفير كافة برامج أنظمة تخطيط الموارد المؤسسية ERP بشكل متكامل؛ تجد في Z4U مثلًا إدارة
+                            للمحاسبة والمالية والموارد البشرية والمخزون والمشتريات.
+                        </li>
+                    </ul>
+                    <div
+                        class="d-flex align-items-center gap-2 mt-4 justify-content-center justify-content-lg-start w-auto me-auto">
+                        <a href="/"
+                            class="btn btn-primary rounded-1 pt-2 pb-2  fw-bold text-center text-lg-start animate__animated animate__slideInUp animate__slower 2s"
+                            title="ابدء الاستخدام مجانا" aria-label="ابدء الاستخدام مجانا " rel="noopener noreferrer">
+                            ابدء الاستخدام مجانا
+                        </a>
+                    </div>
+                    <div class="d-flex flex-column mt-4">
+                        <div
+                            class="d-flex align-items-center justify-content-center justify-content-lg-start flex-wrap gap-2 gap-lg-4 ">
+                            <p class="fw-bold fs-5">
+                                <span>
+                                    <i class="bi bi-check-circle-fill"></i>
+                                </span>
+                                تجربة مجانية
+                            </p>
+                            <p class="fw-bold fs-5">
+                                <span>
+                                    <i class="bi bi-check-circle-fill"></i>
+                                </span>
+                                من دون بطاقة ائتمانية
+                            </p>
+                            <p class="fw-bold fs-5">
+                                <span>
+                                    <i class="bi bi-check-circle-fill"></i>
+                                </span>
+                                جاهز للعمل فورًا
+                            </p>
+                        </div>
+                        <img src="../assets/images/logosx_short.webp" alt="logosx_short" width="600"
+                            class="mt-2 img-fluid mx-auto mx-lg-0">
+                    </div>
                 </div>
                 <div class="col-lg-5 col-md-6">
-                    <img src="../assets/images/page-banner.webp" alt="moon"
-                        class="img-fluid  rounded-5 animate__animated animate__slideInDown animate__slower 2s"
+                    <img src="../assets/images/60e99c4feba3d_blobid1625922638119.png" alt="moon"
+                        class="img-fluid  mt-5 rounded-5 animate__animated animate__slideInDown animate__slower 2s"
                         title="moon" style="max-width: 100% ; height: auto; border-radius: 1.4rem;" />
                     <div class="d-flex align-items-center justify-content-center  gap-2 mt-2">
                         <img src="../assets/images/apple.webp" alt="apple.webp" width="150" class="img-fluid">
@@ -112,38 +71,6 @@
                             class="img-fluid">
                     </div>
                 </div>
-            </div>
-            <div class="d-flex align-items-center gap-2 justify-content-center justify-content-lg-start w-auto me-auto">
-                <a href="/"
-                    class="btn btn-primary rounded-1 pt-2 pb-2 fw-bold text-center text-lg-start animate__animated animate__slideInUp animate__slower 2s"
-                    title="ابدء الاستخدام مجانا" aria-label="ابدء الاستخدام مجانا " rel="noopener noreferrer">
-                    ابدء الاستخدام مجانا
-                </a>
-            </div>
-            <div class="d-flex flex-column mt-4">
-                <div
-                    class="d-flex align-items-center justify-content-center justify-content-lg-start flex-wrap gap-2 gap-lg-4 ">
-                    <p class="fw-bold fs-5">
-                        <span>
-                            <i class="bi bi-check-circle-fill"></i>
-                        </span>
-                        تجربة مجانية
-                    </p>
-                    <p class="fw-bold fs-5">
-                        <span>
-                            <i class="bi bi-check-circle-fill"></i>
-                        </span>
-                        من دون بطاقة ائتمانية
-                    </p>
-                    <p class="fw-bold fs-5">
-                        <span>
-                            <i class="bi bi-check-circle-fill"></i>
-                        </span>
-                        جاهز للعمل فورًا
-                    </p>
-                </div>
-                <img src="../assets/images/logosx_short.webp" alt="logosx_short" width="600"
-                    class="mt-2 img-fluid mx-auto mx-lg-0">
             </div>
             <div class="bg-color mtt mb-5  rounded-4">
                 <div class="d-md-flex align-items-center justify-content-between">
@@ -166,8 +93,11 @@
                     </a>
                 </div>
             </div>
+            <div class="mtt">
+                <img src="../assets/images/Untitled-1_copy.webp" alt="Untitled-1_copy.webp" class="img-fluid">
+            </div>
         </div>
-        <section class="container mtt">
+        <section class="container mt-5">
             <h2 class="text-center fw-bold">
                 حقق أرباحك المستهدفة من <span class="text-blue">
                     المبيعات
@@ -224,15 +154,14 @@
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                أدِر كل العمليات في برنامج الكاشير من شاشة <br> واحدة سهلة الاستخدام
+                                اربط شركتك بمنظومة الفاتورة الإلكترونية السعودية
                             </h2>
                             <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                احصل على تجربة استخدام أسهل وأكثر كفاءة مع برامج نقاط البيع من خلال شاشة بيع صُممِت
-                                لتلبية كل احتياجاتك لإجراء عمليات البيع بسلاسة، أدخل منتجاتك بسهولة بفضل دعم نظام Z4U
-                                لأجهزة الباركود، وأصدر الفواتير متضمنة بنود السعر والخصم والضريبة؛ حدد أنواع الخصم سواء
-                                على عملية البيع بأكملها أو كل منتج على حدة مع إمكانية الاختيار بين تحديد الخصم حسب
-                                النسبة أو المبلغ، أدِر المرتجعات من العملاء بسلاسة، واستلم النقدية أو قم بصرفها خلال
-                                الجلسة مع النوافذ المصممة خصيصًا لذلك.
+                                بوصفه حلًا برمجيًا متوافقًا مع متطلبات الهيئة العامة للزكاة والدخل، يسمح لك Z4U بإجراء
+                                عملية الربط مع منظومة الفاتورة الإلكترونية السعودية بسهولة من خلال واجهة برمجة التطبيقات
+                                (API) التي يوفرها البرنامج، إلى جانب إمكانية إرسال بيانات الفاتورة الإلكترونية المطلوبة
+                                إلى منظومة الهيئة بسلاسة وأمان وبالضوابط المحددة، مع دعم فني متوفر لتسهيل عملية الربط مع
+                                المنظومة.
                             </p>
                         </div>
                         <div
@@ -243,18 +172,13 @@
                                 rel="noopener noreferrer">
                                 ابدء الاستخدام مجانا
                             </a>
-                            <a href="/"
-                                class="btn btn-outline-blue rounded-1 pt-2 px-3 pb-2 mt-3 fw-bold text-center text-lg-start animate__animated animate__slideInUp animate__slower 2s"
-                                title="" aria-label="" rel="noopener noreferrer">
-                                المميزات
-                            </a>
                         </div>
                         <div class="circles">
                             <img src="../assets/images/circles.png" alt="circles" class="img-fluid">
                         </div>
                     </div>
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/operations.webp" alt="moon"
+                        <img src="../assets/images/system-sc.png" alt="moon"
                             class="img-fluid  mt-5 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
                             title="moon" />
                     </div>
@@ -263,21 +187,21 @@
             <section class="container mtt">
                 <div class="row pb-0 mt-5 gap-lg-2 position-relative">
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/pos-sessions.webp" alt="moon"
-                            class="img-fluid  mt-5 justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
+                        <img src="../assets/images/professional.webp" alt="moon"
+                            class="img-fluid  mt-2 justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
                             title="moon" />
                     </div>
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                نظِّم جلسات البيع لموظفيك لسير عمل <br> أكثر سلاسة
+                                حدِّث حسابك وفقًا للمرحلة الثانية من الفاتورة الإلكترونية
                             </h2>
                             <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                مع برنامج نظام نقاط البيع ابدأ جلسة جديدة لك بوصفك مسؤول النظام (الأدمن) أو لأحد موظفي
-                                البيع لديك، وانتقل إلى شاشة البيع بالحساب والتي تم تصميمها لتوفير تجربة مستخدم سهلة مع
-                                نوافذ عرض واضحة تُظهر قوائم المنتجات بالأسماء والصور مع تقسيم حسب تصنيف كل منها لتسهيل
-                                البحث وتحديد بنود الفاتورة، وأدخل منتجاتك مباشرة من خلال أجهزة الباركود المدعومة بالكامل
-                                من برنامج pos Z4U.
+                                واكِب مع برنامج الفوترة الإلكترونية من Z4U أحدث متطلبات هيئة الزكاة والضريبة والجمارك
+                                بشأن المرحلة الثانية من الفاتورة الإلكترونية؛ وذلك تجنبًا لتعطيل مسيرتك الاستثمارية. فقد
+                                سابقنا الزمن في Z4U ونجحنا في تهيئة نظامنا وتحديث حسابات عملائنا لتكون على أتم استعداد
+                                لاستقبال النظام الجديد بمجرد تطبيقه فعليًا، مع مراعاة عدم تكليف عملائنا الكرام أي أعباء
+                                مالية أو تقنية.
                             </p>
                         </div>
                         <div class="circles2">
@@ -293,13 +217,14 @@
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                عرِّف أجهزة نقاط البيع وحدد المخازن <br> التابعة لها
+                                أصدر الفاتورة الإلكترونية المتوافقة مع هيئة الزكاة والدخل السعودية
                             </h2>
-                            <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                عرِّف أجهزة نقاط البيع في برنامج الكاشير pos من Z4U واربط كل منها بأحد المخازن المسجلة
-                                في حسابك ليظهر تأثير حركة المنتجات بها لحظيًا وإجراء عمليات الترصيد للكميات بنهاية كل
-                                جلسة بسهولة، وحدد إجمالي المبيعات لكل مخزن على حدة لاتخاذ قرارات بناءً على ذلك لزيادة
-                                أرباحك وإدارة متجرك باحترافية.
+                            <p class="text-black-50 fs-5 lh-base fw-bold mt-4 text-center text-md-start">
+                                يتيح لك Z4U إمكانية إصدار الفواتير الإلكترونية بما يتوافق مع متطلبات الهيئة العامة
+                                للزكاة والدخل الخاصة بمنظومة الفاتورة الإلكترونية، حيث يمكنك إصدار فواتيرك بالنماذج
+                                المعتمدة للفاتورة الضريبية أو الفاتورة المبسطة، إلى جانب دعم البرنامج للضرائب المطبقة
+                                مثل ضريبة القيمة المضافة وتضمينها تلقائيًا في الفواتير المُصدَرَة، إلى جانب المعلومات
+                                الأساسية المطلوبة مثل الرقم الضريبي للعميل، ومعلومات الضريبة الخاصة بالمؤسسة.
                             </p>
                         </div>
                         <div class="circles">
@@ -307,8 +232,8 @@
                         </div>
                     </div>
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/pos-devices.webp" alt="moon"
-                            class="img-fluid  w-100 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
+                        <img src="../assets/images/ssm.png" alt="moon"
+                            class="img-fluid  mt-5 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
                             title="moon" />
                     </div>
                 </div>
@@ -316,19 +241,21 @@
             <section class="container mtt">
                 <div class="row pb-0 mt-5 gap-lg-2 position-relative">
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/daftra-pos.webp" alt="moon"
-                            class="img-fluid  justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
+                        <img src="../assets/images/60e9a3a5c966a_blobid1625924515791.png" alt="moon"
+                            class="img-fluid   justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
                             title="moon" />
                     </div>
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                نفِّذ عمليات البيع من أي مكان مع تطبيق نقاط <br> البيع السحابي
+                                ضمِّن البيانات اللازمة في فواتيرك الإلكترونية داخل السعودية
                             </h2>
                             <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                قم بإجراء عمليات البيع لمتجرك بسرعة وسهولة في أي وقت ومن أي مكان من أي جهاز لديك مع
-                                تطبيق كاشير pos من Z4U، من Z4U، احصل على صلاحية وصول إلى منتجاتك سواء كنت تستخدم
-                                جهاز كمبيوتر أو هاتف ذكي أو جهاز لوحي لضمان رضا عملائك وتنفيذ عملياتك المختلفة بسلاسة.
+                                يتيح لك Z4U تهيئة فواتيرك حسب الضوابط المحددة من هيئة الزكاة والدخل، حيث يسمح لك
+                                بتضمين رقم تسلسلي غير مكرر، إلى جانب حقول الاسم والعنوان بالتفصيل، مع وجود إمكانية إضافة
+                                الرقم الضريبي للمؤسسة والعميل، مع وصف للسلع أو الخدمات التي توفرها لعملائك، وتضمين
+                                الضرائب المطبقة وحسابها تلقائيًا داخل الفاتورة، تمهيدًا لإصدارها بالشكل الإلكتروني
+                                اللازم وإرسالها إلى منظومة الفاتورة الإلكترونية.
                             </p>
                         </div>
                         <div class="circles2">
@@ -344,13 +271,15 @@
                     <div class="col-lg-6 col-md-6 mt-0 m mtt mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                تطبيق نقاط البيع "الهجين" من Z4U.. سحابيّ <br> وبدون إنترنت
+                                أضِف رمز الاستجابة السريعة (QR Code) في فواتيرك الإلكترونية
                             </h2>
-                            <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                أصبح الآن بإمكانك استخدام تطبيق نقاط البيع الجديد من Z4U الذي يعمل بمجرد تثبيته على
-                                جهازك دون حاجة للاتصال بالإنترنت، مع إمكانية إجراء مزامنة لبياناته مع حسابك السحابي عند
-                                توافر شبكة إنترنت لديك. وبذلك تكون قد جمعت بين مزايا الاحتفاظ بالبيانات واستدعائها من أي
-                                مكان بفضل النظام السحابي، وكذلك مزايا العمل دون حاجة للاتصال بالإنترنت.
+                            <p class="text-black-50 fs-5 lh-base fw-bold mt-4 text-center text-md-start">
+                                بمجرد تفعيل تطبيق الفاتورة الإلكترونية في Z4U، يمكنك إضافة رمز الاستجابة السريعة (QR
+                                Code) تلقائيا في جميع قوالب الفواتير التي تقوم بإصدارها ، وذلك حسبما حدد الهيئة العامة
+                                للزكاة والدخل في الضوابط الخاصة بالفواتير الإلكترونية في المملكة بهدف تعزيز الدفع
+                                الإلكتروني والتحول الرقمي في ظل رؤية المملكة 2030. ويمكنك بسهولة التحكم في تنسيق وتصميم
+                                ومظهر فاتورتك ومكان الQR الكود عبر مصمم القوالب الخاص بZ4U لتحافظ على التصميم النهائي
+                                للفاتورة بما يناسب مجال وطبيعة المؤسسة.
                             </p>
                         </div>
                         <div class="circles">
@@ -358,7 +287,7 @@
                         </div>
                     </div>
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/assign-sc.png" alt="professional"
+                        <img src="../assets/images/60e99c8725d63_blobid1625922693872.png" alt="professional"
                             class="img-fluid  mt-5 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
                             title="moon" />
                     </div>
@@ -367,20 +296,21 @@
             <section class="container mtt">
                 <div class="row pb-0 mt-5 gap-lg-2 position-relative">
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/barcode.webp" alt="automated"
+                        <img src="../assets/images/60e99ca7895da_blobid1625922726343.png" alt="automated"
                             class="img-fluid  justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
                             title="moon" />
                     </div>
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-3 text-center text-md-start">
-                                استخدم أجهزة الباركود لإجراء عمليات البيع <br> بسهولة من خلال برنامج الكاشير
+                                نحمل عنك عبء التطورات التقنية والمتطلبات المتلاحقة
                             </h2>
-                            <p class="text-black-50 fs-4 lh-base fw-bold mt-3 text-center text-md-start">
-                                يدعم برنامج نقاط بيع Z4U استخدام أجهزة الباركود للبحث عن المنتجات وإدخالها في الفواتير
-                                عند عملية البيع توفيرًا للوقت والجهد لمسؤولي المبيعات لديك، عند مسح الباركود من خلال
-                                الأجهزة المدعومة؛ تظهر بيانات المنتج كاملة على شاشة جهاز نقطة البيع المستخدم بما في ذلك
-                                سعر المنتج وتصنيفه والخصم أو العرض المطبق عليه.
+                            <p class="text-black-50 fs-5 lh-base fw-bold mt-3 text-center text-md-start">
+                                في Z4U تم تحديث برنامج Z4U إصدار الفواتير الإلكترونية لتلبية متطلبات المرحلة الأولى
+                                للفاتورة الإلكترونية لكل العملاء، حيث يسهل لأي عميل تفعيل التطبيق دون الحاجة إلى الدخول
+                                في التفاصيل التقنية، وبمجرد إصدار خدمة التكامل مع الهيئة في المرحلة الثانية سيتم تطبيقها
+                                تلقائياً لجميع المستخدمين دون تدخل، وأي تحديثات لاحقة يتم متابعتها وتطبيقها آلياً دون
+                                الحاجة إلى إجراءات إضافية!
                             </p>
                         </div>
                         <div class="circles2">
@@ -389,104 +319,9 @@
                     </div>
                 </div>
             </section>
-        </div>
-        <div class="bg-settings mtt">
-            <section class="container mt-5">
-                <div class="row pb-0 mt-5 gap-lg-2 position-relative">
-                    <div class="col-lg-6 col-md-6 mt-0 m mtt mb-5 mb-md-0 order-1 order-md-0">
-                        <div>
-                            <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                اعثر على منتجاتك باستخدام الباركود عبر <br> كاميرا جهازك
-                            </h2>
-                            <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                يتيح لك Z4U إمكانية استدعاء المنتجات ومسح الباركود الخاص بها باستخدام كاميرا جهازك،
-                                وعندها يمكنك إدخال هذا المنتج إلى شاشة الكاشير المستخدمة بكافة البيانات من اسم وتصنيف
-                                وخصم وعروض موسمية لإتمام عملية البيع المطلوبة بسرعة.
-                            </p>
-                        </div>
-                        <div class="circles">
-                            <img src="../assets/images/circles.png" alt="circles" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/scan-products.webp" alt="professional"
-                            class="img-fluid  mt-5 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
-                            title="moon" />
-                    </div>
-                </div>
-            </section>
-            <section class="container mtt">
-                <div class="row pb-0 mt-5 gap-lg-2 position-relative">
-                    <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/full-summary.webp" alt="automated"
-                            class="img-fluid  justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
-                            title="moon" />
-                    </div>
-                    <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
-                        <div>
-                            <h2 class="text-black fw-bolder lh-base mb-3 text-center text-md-start">
-                                برنامج الكاشير يمكنك من استعراض ملخصًا <br> وافيًا عقب إنهاء كل جلسة بيع
-                            </h2>
-                            <p class="text-black-50 fs-4 lh-base fw-bold mt-3 text-center text-md-start">
-                                استعرض ملخصًا تفصيليًا ووافيًا عن كل جلسة بيع فور إغلاقها، بما في ذلك رقم الوردية واسم
-                                الجهاز والموظف المسؤول، وكذا موعد بدء الجلسة وإغلاقها، قم بإجراء تسويات فورية عقب انتهاء
-                                كل جلسة لضبط أي فوارق في النقدية المستلمة سواء بالزيادة أو النقص.
-                            </p>
-                        </div>
-                        <div class="circles2">
-                            <img src="../assets/images/circles-r.webp" alt="circles" class="img-fluid">
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <section class="container mt-5">
-                <div class="row pb-0 mt-5 gap-lg-2 position-relative">
-                    <div class="col-lg-6 col-md-6 mt-0 m mtt mb-5 mb-md-0 order-1 order-md-0">
-                        <div>
-                            <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                أصدِر التقارير التفصيلية لنتائج جلسات البيع <br> خلال نظام نقاط البيع
-                            </h2>
-                            <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                استعرض مجموعة تقارير مفصلة لنتائج جلسات البيع للحصول على رؤية واضحة حول إجمالي المبيعات
-                                عن كل وردية على حدة أو للورديات مجمَّعة، وكذا تقارير حسب كل منتج أو تصنيف لديك تم بيعه
-                                في كل جلسة، إلى جانب تقارير الأرباح والخسائر التي تُظِهر إجمالي تكلفة البضاعة المباعة
-                                وقيمة الأرباح المحققة ونسبتها كل ذلك من خلال برنامج point of sale من Z4U .
-                            </p>
-                        </div>
-                        <div class="circles">
-                            <img src="../assets/images/circles.png" alt="circles" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/results.webp" alt="professional"
-                            class="img-fluid  mt-5 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
-                            title="moon" />
-                    </div>
-                </div>
-            </section>
-        </div>
-        <div class="bg-color2 mb-5 mtt-3 rounded-4">
-            <div class="d-lg-flex align-items-center justify-content-evenly">
-                <div>
-                    <img src="../../public/Z4U_White.png" alt="" width="220" class="img-fluid">
-                </div>
-                <div class="d-flex flex-column text-sm-center justify-content-center g-3">
-                    <h2 class="fw-bold text-white ">
-                        احصل على تجربتك المجانية
-                    </h2>
-                    <p class="fw-bold text-white fs-4">
-                        سجِّل حسابك في Z4U في خطوات بسيطة من دون الحاجة إلى بطاقة ائتمان
-                    </p>
-                    <a href="/"
-                        class="btn btn-primary rounded-4 py-2 col-12  mt-3 fw-bold  animate__animated animate__slideInUp animate__slower 2s"
-                        title="استشارة مجانية" aria-label="استشارة مجانية" target="_blank" rel="noopener noreferrer">
-                        ابدء الاستخدام مجانا
-                    </a>
-                </div>
-            </div>
         </div>
         <!-- SALES -->
-        <section class="container mtt mb-5">
+        <section class="container mtt-3 mb-5">
             <h1 class="text-center fw-bold">اسعار برنامج إدارة المبيعات</h1>
             <div class="d-flex justify-content-center align-items-center mt-4">
                 <div class="d-flex align-items-center gap-2 border-end p-2">
@@ -557,8 +392,28 @@
             </div>
         </section>
         <!-- END-SALES -->
+        <div class="bg-color2 mb-5 mtt  rounded-4">
+            <div class="d-lg-flex align-items-center justify-content-evenly">
+                <div>
+                    <img src="../../public/Z4U_White.png" alt="" width="230" class="img-fluid">
+                </div>
+                <div class="d-flex flex-column text-sm-center justify-content-center g-3">
+                    <h2 class="fw-bold text-white ">
+                        احصل على تجربتك المجانية
+                    </h2>
+                    <p class="fw-bold text-white fs-4">
+                        سجِّل حسابك في Z4U في خطوات بسيطة من دون الحاجة إلى بطاقة ائتمان
+                    </p>
+                    <a href="/"
+                        class="btn btn-primary rounded-4 py-2 col-12  mt-3 fw-bold  animate__animated animate__slideInUp animate__slower 2s"
+                        title="استشارة مجانية" aria-label="استشارة مجانية" target="_blank" rel="noopener noreferrer">
+                        ابدء الاستخدام مجانا
+                    </a>
+                </div>
+            </div>
+        </div>
         <!-- cards -->
-        <section class="container mb-5">
+        <section class="container mb-5 mtt">
             <div class="mt-4">
                 <h1 class="fw-bold">
                     لماذا يُعَدُّ <span class="text-blue">Z4U</span>
@@ -894,7 +749,7 @@ export default {
 }
 
 .bg-color {
-    width: 90%;
+    width: 100%;
     padding: 3rem;
     margin: auto;
     background: blue;

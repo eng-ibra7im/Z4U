@@ -7,49 +7,50 @@
                         برنامج إدارة العروض
                     </h2>
                     <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                        بفضل الأدوات المتقدمة في نظام دفترة، يمكنك إنشاء مختلف العروض على منتجاتك أو خدماتك بسهولة في
+                        بفضل الأدوات المتقدمة في نظام Z4U، يمكنك إنشاء مختلف العروض على منتجاتك أو خدماتك بسهولة في
                         واجهة سهلة الاستخدام تدعم اللغة العربية، وكذلك الاختيار من بين أنواع متعددة من العروض بناءً على
                         الفترة الزمنية مثل العروض الموسمية؛ وذلك لتحديد الخصم سواء كان خصم نسبة أو مبلغ معين، مع
                         إمكانيات أتمتة تاريخ البدء والانتهاء لهذه العروض دون تدخل يدوي للتركيز على تحقيق أرباحك
                         المستهدفة من المبيعات.
                     </p>
-                    <div class="d-flex align-items-center gap-2 mt-4 justify-content-center justify-content-lg-start w-auto me-auto">
-                <a href="/"
-                    class="btn btn-primary rounded-1  pt-2 pb-2 fw-bold text-center text-lg-start animate__animated animate__slideInUp animate__slower 2s"
-                    title="ابدء الاستخدام مجانا" aria-label="ابدء الاستخدام مجانا " rel="noopener noreferrer">
-                    ابدء الاستخدام مجانا
-                </a>
-                <a href="/"
-                    class="btn btn-outline-blue rounded-1 pt-2 pb-2 px-3 fw-bold text-center text-lg-start animate__animated animate__slideInUp animate__slower 2s"
-                    title="جولهه " aria-label="  مجانا " rel="noopener noreferrer">
-                    جولة سريعة
-                </a>
-            </div>
-            <div class="d-flex flex-column mt-4">
-                <div
-                    class="d-flex align-items-center justify-content-center justify-content-lg-start flex-wrap gap-2 gap-lg-4 ">
-                    <p class="fw-bold fs-5">
-                        <span>
-                            <i class="bi bi-check-circle-fill"></i>
-                        </span>
-                        تجربة مجانية
-                    </p>
-                    <p class="fw-bold fs-5">
-                        <span>
-                            <i class="bi bi-check-circle-fill"></i>
-                        </span>
-                        من دون بطاقة ائتمانية
-                    </p>
-                    <p class="fw-bold fs-5">
-                        <span>
-                            <i class="bi bi-check-circle-fill"></i>
-                        </span>
-                        جاهز للعمل فورًا
-                    </p>
-                </div>
-                <img src="../assets/images/logosx_short.webp" alt="logosx_short" width="600"
-                    class="mt-2 img-fluid mx-auto mx-lg-0">
-            </div>
+                    <div
+                        class="d-flex align-items-center gap-2 mt-4 justify-content-center justify-content-lg-start w-auto me-auto">
+                        <a href="/"
+                            class="btn btn-primary rounded-1  pt-2 pb-2 fw-bold text-center text-lg-start animate__animated animate__slideInUp animate__slower 2s"
+                            title="ابدء الاستخدام مجانا" aria-label="ابدء الاستخدام مجانا " rel="noopener noreferrer">
+                            ابدء الاستخدام مجانا
+                        </a>
+                        <a href="/"
+                            class="btn btn-outline-blue rounded-1 pt-2 pb-2 px-3 fw-bold text-center text-lg-start animate__animated animate__slideInUp animate__slower 2s"
+                            title="جولهه " aria-label="  مجانا " rel="noopener noreferrer">
+                            جولة سريعة
+                        </a>
+                    </div>
+                    <div class="d-flex flex-column mt-4">
+                        <div
+                            class="d-flex align-items-center justify-content-center justify-content-lg-start flex-wrap gap-2 gap-lg-4 ">
+                            <p class="fw-bold fs-5">
+                                <span>
+                                    <i class="bi bi-check-circle-fill"></i>
+                                </span>
+                                تجربة مجانية
+                            </p>
+                            <p class="fw-bold fs-5">
+                                <span>
+                                    <i class="bi bi-check-circle-fill"></i>
+                                </span>
+                                من دون بطاقة ائتمانية
+                            </p>
+                            <p class="fw-bold fs-5">
+                                <span>
+                                    <i class="bi bi-check-circle-fill"></i>
+                                </span>
+                                جاهز للعمل فورًا
+                            </p>
+                        </div>
+                        <img src="../assets/images/logosx_short.webp" alt="logosx_short" width="600"
+                            class="mt-2 img-fluid mx-auto mx-lg-0">
+                    </div>
                 </div>
                 <div class="col-lg-5 col-md-6">
                     <img src="../assets/images/page-banner2.webp" alt="moon"
@@ -66,7 +67,7 @@
                             ليناسب أكثر من 50 مجالًا مختلفًا
                         </h3>
                         <p class="fw-bold  text-white fs-4">
-                            إمكانية تخصيص نظام دفترة حسب مجال عملك
+                            إمكانية تخصيص نظام Z4U حسب مجال عملك
                             <br>
                             بما في ذلك التطبيقات المضمَّنة وتصميمات الواجهة لتحقيق أهداف أعمالك .
                         </p>
@@ -83,7 +84,7 @@
             <h2 class="text-center fw-bold">
                 حقق أرباحك المستهدفة من <span class="text-blue">
                     المبيعات
-                </span> مع دفترة
+                </span> مع Z4U
             </h2>
 
             <div class="d-lg-flex align-items-center justify-content-center  gap-4 mt-4">
@@ -181,7 +182,7 @@
                                 خصص أنواع العروض والخصومات على منتجاتك
                             </h2>
                             <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                يوفر لك دفترة العديد من الخيارات التي يمكنك استخدامها لتطبيق عروضك أو خصوماتك على
+                                يوفر لك Z4U العديد من الخيارات التي يمكنك استخدامها لتطبيق عروضك أو خصوماتك على
                                 المنتجات في متجرك، حيث يمكنك الاختيار من بين "خصم على الصنف" أو "شراء عدد من الأصناف
                                 وتطبيق خصم على القطعة الأرخص"، وعندها يمكنك تحديد نوع الخصم المطبق على القطعة الأرخص
                                 سواء نسبة معينة أو كمية.
@@ -203,7 +204,7 @@
                                 تجربة مرنة لتطبيق العروض والخصومات
                             </h2>
                             <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                يوفر لك دفترة تجربة مرنة لتطبيق الخصم والعروض على منتجاتك، حيث يمكنك تطبيق الخصم على
+                                يوفر لك Z4U تجربة مرنة لتطبيق الخصم والعروض على منتجاتك، حيث يمكنك تطبيق الخصم على
                                 تصنيف أو عدة تصنيفات معينة، أو يمكنك تطبيقه على عنصر واحد أو عدة عناصر داخل هذه
                                 التصنيفات. ويعمل النظام على تطبيق الخصومات في فاتورة مبيعات العملاء آلياً وبيان نسبة
                                 الخصم في الفاتورة.
@@ -233,7 +234,7 @@
                                 زِد من حجم مبيعاتك مع العروض الترويجية بكفاءة
                             </h2>
                             <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                يمنحك دفترة حرية التنقل بين العروض وتغييرها بسهولة من خلال خيارات عديدة يمكنك تخصيصها
+                                يمنحك Z4U حرية التنقل بين العروض وتغييرها بسهولة من خلال خيارات عديدة يمكنك تخصيصها
                                 حسب احتياجات أعمالك، بما في ذلك تخفيضات كبيرة لفترة محدودة، أو شراء عدد معين من المنتج
                                 للحصول على عدد آخر مجاني، إلى جانب الخصومات بالنسبة المئوية أو المبالغ والمشتريات
                                 المتعددة (2 بسعر 1) وكذلك العروض الموسمية.
@@ -322,11 +323,11 @@
         <section class="container mb-5">
             <div class="mt-4">
                 <h1 class="fw-bold">
-                    لماذا يُعَدُّ <span class="text-blue">دفترة</span>
+                    لماذا يُعَدُّ <span class="text-blue">Z4U</span>
                     <br>
                     شريكًا مثاليًا لأعمالك؟
                 </h1>
-                <p class="fw-bold text-black fs-4 mt-3">اكتشف كيف يساعدك نظام دفترة في إدارة أعمالك بكفاءة وفعالية</p>
+                <p class="fw-bold text-black fs-4 mt-3">اكتشف كيف يساعدك نظام Z4U في إدارة أعمالك بكفاءة وفعالية</p>
             </div>
             <div class="row mt-3  g-4">
                 <div class="col-lg-3 col-md-4 col-12">
@@ -351,7 +352,7 @@
                                 مشكلات؛ عبر التواصل
                                 من خلال الهاتف أو البريد الإلكتروني على مدار اليوم، وذلك لضمان حصولكم على تجربة مثالية
                                 عند استخدام نظام
-                                دفترة.
+                                Z4U.
                             </p>
                         </div>
                     </div>
@@ -365,7 +366,7 @@
                             والحماية
                         </h3>
                         <p class="mt-2 fw-bold fs-5 text-black-50 ">
-                            يولي نظام دفترة اهتمامًا بالغًا بسلامة بياناتكم على خوادمنا، لذا نستخدم ... </p>
+                            يولي نظام Z4U اهتمامًا بالغًا بسلامة بياناتكم على خوادمنا، لذا نستخدم ... </p>
                         <div class="card-hover  py-4 px-3">
                             <h3 class="fw-bold text-white">
                                 الأمان
@@ -373,7 +374,7 @@
                                 والحماية
                             </h3>
                             <p class="mt-2 fw-bold fs-5 text-white">
-                                يولي نظام دفترة اهتمامًا بالغًا بسلامة بياناتكم على خوادمنا، لذا نستخدم خوادم مؤمنة
+                                يولي نظام Z4U اهتمامًا بالغًا بسلامة بياناتكم على خوادمنا، لذا نستخدم خوادم مؤمنة
                                 بالكامل ومشفرة
                                 بتقنية
                                 SSL 256 bit مع عدة طبقات من الحماية، إلى جانب وجود الخوادم في قارتين مختلفتين مع إجراءات
@@ -459,7 +460,7 @@
                                 تابع مؤشرات أعمالك بدقة وأدِر عملياتك بفعالية في خطوات بسيطة من دون استغراق الكثير من
                                 الوقت أو بذل مجهود
                                 كبير في تنفيذها، وذلك بفضل واجهة المستخدم البسيطة والعمليات المؤتمتة التي يتميز بها نظام
-                                دفترة.
+                                Z4U.
                             </p>
                         </div>
                     </div>
@@ -473,7 +474,7 @@
                             وفي أي وقت
                         </h3>
                         <p class="mt-2 fw-bold fs-5 text-black-50 ">
-                            لكونه نظامًا سحابيًا على خوادم مؤمنة بالكامل، فستجد دفترة في متناول ...
+                            لكونه نظامًا سحابيًا على خوادم مؤمنة بالكامل، فستجد Z4U في متناول ...
                         </p>
                         <div class="card-hover  py-4 px-3">
                             <h3 class="fw-bold text-white">
@@ -482,7 +483,7 @@
                                 والجهد
                             </h3>
                             <p class="mt-2 fw-bold fs-5 text-white">
-                                لكونه نظامًا سحابيًا على خوادم مؤمنة بالكامل، فستجد دفترة في متناول يديك دائماً لمساعدتك
+                                لكونه نظامًا سحابيًا على خوادم مؤمنة بالكامل، فستجد Z4U في متناول يديك دائماً لمساعدتك
                                 في إدارة أعمالك
                                 بفعالية على مدار الساعة وطوال أيام الأسبوع، مع إمكانية إصدار الفواتير عبر تطبيق سطح
                                 المكتب في حال انقطاع
@@ -500,7 +501,7 @@
                             دورية مجانًا <br>
                             دورية مجانًا </h3>
                         <p class="mt-2 fw-bold fs-5 text-black-50 ">
-                            يعمل دفترة باستمرار على تطوير النظام بأكمله وتحديث تطبيقاته ....
+                            يعمل Z4U باستمرار على تطوير النظام بأكمله وتحديث تطبيقاته ....
                         </p>
                         <div class="card-hover  py-4 px-3">
                             <h3 class="fw-bold text-white">
@@ -509,7 +510,7 @@
                                 دورية مجانًا
                             </h3>
                             <p class="mt-2 fw-bold fs-5 text-white">
-                                يعمل دفترة باستمرار على تطوير النظام بأكمله وتحديث تطبيقاته وميزاته لمواكبة متطلبات
+                                يعمل Z4U باستمرار على تطوير النظام بأكمله وتحديث تطبيقاته وميزاته لمواكبة متطلبات
                                 الأعمال بما في ذلك
                                 إضافة الخصائص والأدوات الجديدة التي من شأنها تسهيل إدارة أعمالك على نحو فعال، فيما ستحصل
                                 على كل هذه
@@ -556,7 +557,7 @@
                             البرنامج
                         </h3>
                         <p class="fw-bold  text-white fs-4">
-                            دفترة مصمم بواجهة سهلة الاستخدام تناسب كل المستخدمين من دون الحاجة لمعرفة كبيرة
+                            Z4U مصمم بواجهة سهلة الاستخدام تناسب كل المستخدمين من دون الحاجة لمعرفة كبيرة
                             <br>
                             بالمحاسبة، إلى جانب أدوات متقدمة لمساعدة الخبراء في إتمام أعمالهم باحترافية.
                         </p>
@@ -573,11 +574,11 @@
             <div class="row my-5 d-flex align-items-center gap-5 ">
                 <div class="col-lg-6 col-md-5 col-12">
                     <h2 class="fw-bold text-black lh-base">
-                        حمِّل تطبيق دفترة
+                        حمِّل تطبيق Z4U
                         <br> للهواتف الذكية مجانًا
                     </h2>
                     <p class="mt-4 text-black-50 fw-bold fs-4">
-                        كن على تواصل دائم مع عملائك وأدِر أعمالك بسلاسة وسهولة مع تطبيق دفترة للهاتف المحمول؛ تابع آخر
+                        كن على تواصل دائم مع عملائك وأدِر أعمالك بسلاسة وسهولة مع تطبيق Z4U للهاتف المحمول؛ تابع آخر
                         مستجدات
                         أعمالك وراقب أداء موظفيك بسهولة ودقة، أدِر عملياتك المختلفة من مبيعات وفوترة ومحاسبة عامة وحركات
                         مخزنية

@@ -39,6 +39,26 @@ const router = createRouter({
       path: "/taqset",
       component: () => import("../views/taqsetView.vue"),
     },
+    {
+      name: "hesap",
+      path: "/hesap",
+      component: () => import("../views/hesapatVeiw.vue"),
+    },
+    {
+      name: "safty",
+      path: "/safty",
+      component: () => import("../views/saftyView.vue"),
+    },
+    {
+      name: "الفاتورة-الإلكترونية-السعودية",
+      path: "/soudifatura",
+      component: () => import("../views/soudifaturaVIiew.vue"),
+    },
+    {
+      name: "الفاتورة-الإلكترونية-المصريه",
+      path: "/egyptfatura",
+      component: () => import("../views/egyptfaturaVIiew.vue"),
+    },
     // not found
     {
       name: "not-found",
