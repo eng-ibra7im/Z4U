@@ -29,6 +29,16 @@ const router = createRouter({
       path: "/salary",
       component: () => import("../views/salaryVeiw.vue"),
     },
+    {
+      name: "payment",
+      path: "/payment",
+      component: () => import("../views/paymentVeiw.vue"),
+    },
+    {
+      name: "taqset",
+      path: "/taqset",
+      component: () => import("../views/taqsetView.vue"),
+    },
     // not found
     {
       name: "not-found",
