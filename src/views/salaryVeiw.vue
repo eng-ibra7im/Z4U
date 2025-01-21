@@ -1,49 +1,110 @@
 <template>
     <main class="overflow-hidden">
+        <div class="bg-color2 mb-5 mt-3 rounded-4">
+            <div class="container">
+                <div class="row pb-0 gap-lg-3">
+                    <h1 class="fw-bold text-white">
+                        برنامج نقاط البيع - POS
+                    </h1>
+                    <div class="col-lg-6 col-md-6 mt-0 mt-lg-4 mb-5 mb-md-0 order-1 order-md-0">
+                        <ul
+                            class="d-flex flex-column list-unstyled flex-lg-column flex-md-row gap-md-3 gap-0 gap-lg-0  mt-3 fs-5 fw-bold lh-base animate__animated animate__slideInRight animate__slower 2s ">
+                            <li>
+                                <p class="fw-bold text-white fs-5">
+                                    <span>
+                                        <i class="bi bi-check-circle-fill me-1"></i>
+                                    </span>
+                                    إصدار الإيصالات والفواتير الإلكترونية.
+                                </p>
+                            </li>
+                            <li>
+                                <p class="fw-bold text-white fs-5">
+                                    <span>
+                                        <i class="bi bi-check-circle-fill me-1"></i>
+                                    </span>
+                                    إمكانية العمل عبر نسخة مكتبية دون الحاجة للإتصال الدائم بالإنترنت
+                                </p>
+                            </li>
+                            <li>
+                                <p class="fw-bold text-white fs-5">
+                                    <span>
+                                        <i class="bi bi-check-circle-fill me-1"></i>
+                                    </span>
+                                    يعمل على الجوالات والأجهزة المكتبية واللوحية والهاند هيلد مع نظام ربط متكامل
+                                </p>
+                            </li>
+                            <li>
+                                <p class="fw-bold text-white fs-5">
+                                    <span>
+                                        <i class="bi bi-check-circle-fill me-1"></i>
+                                    </span>
+                                    دعم وحدات القياس المتعددة والباركود.
+                                </p>
+                            </li>
+                            <li>
+                                <p class="fw-bold text-white fs-5">
+                                    <span>
+                                        <i class="bi bi-check-circle-fill me-1"></i>
+                                    </span>
+                                    يدعم التتبع برقم السيريال وتاريخ الصلاحية.
+                                </p>
+                            </li>
+                            <li>
+                                <p class="fw-bold text-white fs-5">
+                                    <span>
+                                        <i class="bi bi-check-circle-fill me-1"></i>
+                                    </span>
+                                    دعم جميع أنواع الطابعات وأجهزة الباركود، وقراءة باركود الأوزان.
+                                </p>
+                            </li>
+                            <li>
+                                <p class="fw-bold text-white fs-5">
+                                    <span>
+                                        <i class="bi bi-check-circle-fill me-1"></i>
+                                    </span>
+                                    متكامل مع برامج إدارة العملاء والمخزون و الحسابات العامة.
+                                </p>
+                            </li>
+                        </ul>
+                        <div
+                            class="d-flex align-items-center gap-2 mt-4 justify-content-center justify-content-lg-start w-auto me-auto">
+                            <a href="/"
+                                class="btn btn-primary rounded-1 pt-2 pb-2 mt-3 fw-bold text-center text-lg-start animate__animated animate__slideInUp animate__slower 2s"
+                                title="ابدء الاستخدام مجانا" aria-label="ابدء الاستخدام مجانا "
+                                rel="noopener noreferrer">
+                                ابدء الاستخدام مجانا
+                            </a>
+                            <a href="/"
+                                class="btn btn-outline-info rounded-1 pt-2 px-3 pb-2 mt-3 fw-bold text-center text-lg-start animate__animated animate__slideInUp animate__slower 2s"
+                                title="" aria-label="" rel="noopener noreferrer">
+                                جولة سريعه
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 col-md-6">
+                        <img src="../assets/images/module-pos-featured-intro-vector-rtl.webp" alt="moon"
+                            class="img-fluid  rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
+                            title="moon" style="max-width: 100% ; height: auto; border-radius: 1.4rem;" />
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="container">
             <div class="row pb-0 mt-5 gap-lg-3">
                 <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
-                    <h1 class="text-black fw-bolder lh-base display-5 mb-2 text-center text-md-start">
-                        برنامج مبيعات متكامل لإدارة الشركات
-                    </h1>
+                    <h2 class="text-black fw-bolder lh-base display-5 mb-2 text-center text-md-start">
+                        برنامج نقاط البيع POS - برنامج كاشير لجميع المحلات التجارية
+                    </h2>
                     <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                        لا تكتمل الأنشطة التجارية بلا نظام مبيعات مُحكَّم يدعم التوسع ويساعد على زيادة الأرباح. ويعد
-                        دفترة برنامج مبيعات متكامل، ييسر عملية البيع نفسها وما يرتبط منها من تسهيلات كالأقساط وقوائم
-                        الأسعار المتعددة وخصومات شركات التأمين، وكذلك ما يتعلق بموظفي المبيعات ومسئولياتهم عن العملاء
-                        وتقييم الأداء لصرف العمولات، كما يتيح دفترة بعض المميزات التسويقية كالخصومات والعروض ونقاط
-                        الولاء وإرسال الرسائل الترويجية للعملاء بشكل آلي.
+                        برنامج فواتير بسيط ومجاني لمدة أسبوعين كفترة تجريبية، ويعينك برنامج فواتير دفترة على إصدار
+                        فواتير معتمدة باللغة العربية والإنجليزية من خلال واجهة استخدام سهلة وسريعة الاستجابة. ولأن أكثر
+                        ما يميز أي برنامج لعمل الفواتير أن يسهل تخصيصه ليلائم تماماً احتياجات عملك ويلبي متطلباتك، يتوفر
+                        دفترة لأكثر من 50 مجال عمل مع أدوات تخصيص مرنة تجعل النظام يعمل تمامًا كما تريد.
                     </p>
-                    <ul
-                        class="d-flex flex-column flex-lg-column flex-md-row gap-md-3 gap-0 gap-lg-0  mt-3 fs-5 fw-bold lh-base animate__animated animate__slideInRight animate__slower 2s ">
-                        <li class="my-1">إصدار الفواتير الإلكترونية المعتمدة بسهولة.</li>
-                        <li class="my-1">إصدار عروض الأسعار للعملاء ورهن تحويلها لفاتورة بموافقة العميل.
-                        </li>
-                        <li class="my-1">
-                            التحكم في تصميم الفاتورة والتعديل عليه بما يناسب طبيعة عملك.
-                        </li>
-                        <li class="my-1">
-                            تقييد صلاحيات موظفي المبيعات عند تعاملهم مع النظام، وسهولة ضبط وتفعيل أنظمة العمولات.
-                        </li>
-                        <li class="my-1">
-                            توفر نظام لنقاط البيع متاح استخدامه أونلاين وأوفلاين.
-                        </li>
-                        <li class="my-1">
-                            خيارات الدفع مرنة ومتنوعة، ويتاح تقسيط الفواتير أو دفعها جزئيًا.
-                        </li>
-                        <li class="my-1">
-                            خيارات تسعير متقدمة قابلة للتخصيص بحسب فئات العملاء.
-                        </li>
-                        <li class="my-1">
-                            تنوع طرق الخصومات المتاح توفيرها للعملاء على النظام، مما يتيح وفرة في العروض.
-                        </li>
-                        <li class="my-1">
-                            تقارير دقيقة، آلية الإعداد، فورية الإصدار.
-                        </li>
-                    </ul>
                 </div>
                 <div class="col-lg-5 col-md-6">
-                    <img src="../assets/images/module.png" alt="moon"
-                        class="img-fluid  mt-5 rounded-5 animate__animated animate__slideInDown animate__slower 2s"
+                    <img src="../assets/images/page-banner.webp" alt="moon"
+                        class="img-fluid  rounded-5 animate__animated animate__slideInDown animate__slower 2s"
                         title="moon" style="max-width: 100% ; height: auto; border-radius: 1.4rem;" />
                     <div class="d-flex align-items-center justify-content-center  gap-2 mt-2">
                         <img src="../assets/images/apple.webp" alt="apple.webp" width="150" class="img-fluid">
@@ -54,14 +115,9 @@
             </div>
             <div class="d-flex align-items-center gap-2 justify-content-center justify-content-lg-start w-auto me-auto">
                 <a href="/"
-                    class="btn btn-primary rounded-1 pt-2 pb-2 mt-3 fw-bold text-center text-lg-start animate__animated animate__slideInUp animate__slower 2s"
+                    class="btn btn-primary rounded-1 pt-2 pb-2 fw-bold text-center text-lg-start animate__animated animate__slideInUp animate__slower 2s"
                     title="ابدء الاستخدام مجانا" aria-label="ابدء الاستخدام مجانا " rel="noopener noreferrer">
                     ابدء الاستخدام مجانا
-                </a>
-                <a href="/"
-                    class="btn btn-outline-blue rounded-1 pt-2 px-3 pb-2 mt-3 fw-bold text-center text-lg-start animate__animated animate__slideInUp animate__slower 2s"
-                    title="" aria-label="" rel="noopener noreferrer">
-                    جولة سريعه
                 </a>
             </div>
             <div class="d-flex flex-column mt-4">
@@ -168,14 +224,15 @@
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                أصدر فواتير المبيعات الإلكترونية وعروض <br>الأسعار باحترافية
+                                أدِر كل العمليات في برنامج الكاشير من شاشة <br> واحدة سهلة الاستخدام
                             </h2>
                             <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                يتيح لك برنامج المبيعات إمكانية إنشاء الفواتير الإلكترونية وعروض الأسعار متضمنة الضرائب
-                                المطبقة وخيارات الشحن والخصومات آليًا، وكذلك الفواتير الدورية ومذكرات الائتمان والفواتير
-                                المرتجعة؛ كل ما عليك فعله هو إدخال بنود الفاتورة عبر خيارات عدة إما اختيارها من القائمة
-                                المنسدلة أو نسخها ولصقها من ملفات إكسيل خارجية، مع إمكانية إدخال أسعارها تلقائيًا من
-                                قوائم الأسعار المحددة مسبقًا.
+                                احصل على تجربة استخدام أسهل وأكثر كفاءة مع برامج نقاط البيع من خلال شاشة بيع صُممِت
+                                لتلبية كل احتياجاتك لإجراء عمليات البيع بسلاسة، أدخل منتجاتك بسهولة بفضل دعم نظام دفترة
+                                لأجهزة الباركود، وأصدر الفواتير متضمنة بنود السعر والخصم والضريبة؛ حدد أنواع الخصم سواء
+                                على عملية البيع بأكملها أو كل منتج على حدة مع إمكانية الاختيار بين تحديد الخصم حسب
+                                النسبة أو المبلغ، أدِر المرتجعات من العملاء بسلاسة، واستلم النقدية أو قم بصرفها خلال
+                                الجلسة مع النوافذ المصممة خصيصًا لذلك.
                             </p>
                         </div>
                         <div
@@ -197,8 +254,8 @@
                         </div>
                     </div>
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/invoice-sc.png" alt="moon"
-                            class="img-fluid  mt-5 justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
+                        <img src="../assets/images/operations.webp" alt="moon"
+                            class="img-fluid  mt-5 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
                             title="moon" />
                     </div>
                 </div>
@@ -206,22 +263,21 @@
             <section class="container mtt">
                 <div class="row pb-0 mt-5 gap-lg-2 position-relative">
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/discount-sc.png" alt="moon"
+                        <img src="../assets/images/pos-sessions.webp" alt="moon"
                             class="img-fluid  mt-5 justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
                             title="moon" />
                     </div>
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                استخدم الخيارات المتقدمة في الفواتير <br> وعروض الأسعار لتلبية احتياجات أعمالك
+                                نظِّم جلسات البيع لموظفيك لسير عمل <br> أكثر سلاسة
                             </h2>
                             <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                يوفر لك نظام إدارة المبيعات العديد من الخيارات التي تساعدك على إنشاء فواتيرٍ وعروض أسعار
-                                مفصلة متضمنة كافة البيانات المطلوبة، حيث يمكن تحديد خيارات الدفع المتقدمة بما في ذلك
-                                الدفع الجزئي أو الكلي والخصومات وخيارات الشحن. بالإضافة إلى إمكانية إرفاق المستندات
-                                وإضافة الملحوظات المطلوبة، كما يتيح لك إمكانية طباعة الفواتير وعروض الأسعار مباشرة أو
-                                إرسالها إلى عملائك فوريًا من داخل شاشة إصدار الفاتورة عبر البريد الإلكتروني في خطوات
-                                سهلة على نحو آمن.
+                                مع برنامج نظام نقاط البيع ابدأ جلسة جديدة لك بوصفك مسؤول النظام (الأدمن) أو لأحد موظفي
+                                البيع لديك، وانتقل إلى شاشة البيع بالحساب والتي تم تصميمها لتوفير تجربة مستخدم سهلة مع
+                                نوافذ عرض واضحة تُظهر قوائم المنتجات بالأسماء والصور مع تقسيم حسب تصنيف كل منها لتسهيل
+                                البحث وتحديد بنود الفاتورة، وأدخل منتجاتك مباشرة من خلال أجهزة الباركود المدعومة بالكامل
+                                من برنامج pos دفترة.
                             </p>
                         </div>
                         <div class="circles2">
@@ -237,17 +293,13 @@
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                نفِّذ عمليات البيع بسلاسة مع أجهزة نقاط <br> البيع والباركود
+                                عرِّف أجهزة نقاط البيع وحدد المخازن <br> التابعة لها
                             </h2>
                             <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                أدِر عمليات البيع في كل فروع شركتك أو متجرك بسهولة عن طريق أجهزة نقاط البيع المدعومة من
-                                دفترة سواء داخل مقر عملك أو عبر الإنترنت بفضل الخدمات السحابية في النظام، قم بتوصيل
-                                أجهزة نقاط البيع بالنظام وتمتع بتجربة سلسة عند إدخال بيانات عملائك في الوقت الفعلي مع
-                                تطبيق نسب الخصم على الفاتورة ككل أو على كل منتج على حدة، ونظم جلسات البيع لموظفيك
-                                وورديات عملهم، بالإضافة إلى أجهزة الباركود المدعومة من النظام لإدخال المنتجات بسهولة
-                                وسرعة في فواتيرك توفيرًا للوقت والجهد، كما يوفر لك الأدوات المتقدمة لإصدار تقارير
-                                تفصيلية عن عمليات البيع وسجل الحركات والأرباح عن كل منتج أو تصنيف أو مبيعات موظف على حدة
-                                بدقة.
+                                عرِّف أجهزة نقاط البيع في برنامج الكاشير pos من دفترة واربط كل منها بأحد المخازن المسجلة
+                                في حسابك ليظهر تأثير حركة المنتجات بها لحظيًا وإجراء عمليات الترصيد للكميات بنهاية كل
+                                جلسة بسهولة، وحدد إجمالي المبيعات لكل مخزن على حدة لاتخاذ قرارات بناءً على ذلك لزيادة
+                                أرباحك وإدارة متجرك باحترافية.
                             </p>
                         </div>
                         <div class="circles">
@@ -255,8 +307,8 @@
                         </div>
                     </div>
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/manage-sc.png" alt="moon"
-                            class="img-fluid  mt-5 justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
+                        <img src="../assets/images/pos-devices.webp" alt="moon"
+                            class="img-fluid  w-100 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
                             title="moon" />
                     </div>
                 </div>
@@ -264,20 +316,19 @@
             <section class="container mtt">
                 <div class="row pb-0 mt-5 gap-lg-2 position-relative">
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/assign-sc.png" alt="moon"
-                            class="img-fluid   justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
+                        <img src="../assets/images/daftra-pos.webp" alt="moon"
+                            class="img-fluid  justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
                             title="moon" />
                     </div>
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                استخدم تطبيق نقاط البيع بدون إنترنت
+                                نفِّذ عمليات البيع من أي مكان مع تطبيق نقاط <br> البيع السحابي
                             </h2>
                             <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                لا تتوقف عن البيع لحظةً واحدةً، حتى عند انقطاع اتصالك بشبكة الإنترنت؛ وذلك بفضل تطبيق
-                                نقاط البيع الجديد من دفترة الذي يمكنك تثبيته على جهازك واستخدامه دون حاجة للاتصال
-                                بالإنترنت. قم بإصدار فواتيرك وأكمل كل عمليات البيع دون توقف، ثم زامن كافة البيانات
-                                والفواتير مع حسابك السحابيّ بمجرّد توافر شبكة إنترنت، في أي وقتٍ، وبكل سهولةٍ.
+                                قم بإجراء عمليات البيع لمتجرك بسرعة وسهولة في أي وقت ومن أي مكان من أي جهاز لديك مع
+                                تطبيق كاشير pos من دفترة، من دفترة، احصل على صلاحية وصول إلى منتجاتك سواء كنت تستخدم
+                                جهاز كمبيوتر أو هاتف ذكي أو جهاز لوحي لضمان رضا عملائك وتنفيذ عملياتك المختلفة بسلاسة.
                             </p>
                         </div>
                         <div class="circles2">
@@ -290,19 +341,16 @@
         <div class="bg-settings mtt">
             <section class="container mt-5">
                 <div class="row pb-0 mt-5 gap-lg-2 position-relative">
-                    <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
+                    <div class="col-lg-6 col-md-6 mt-0 m mtt mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                نظِّم أقساط عملائك بكفاءة
+                                تطبيق نقاط البيع "الهجين" من دفترة.. سحابيّ <br> وبدون إنترنت
                             </h2>
                             <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                نظِّم اتفاقيات التقسيط مع عملائك بسلاسة عبر خصائص الأتمتة التي يوفرها دفترة. فعند إنشاء
-                                اتفاقية تقسيط على إحدى فواتير عملائك؛ دع نظامنا يتولى تقسيم عمليات الدفع على فترة
-                                التقسيط المحددة تلقائيًا، كما يمكنك إرسال تنبيهات إلى عميلك قبل تاريخ الاستحقاق عبر
-                                البريد الإلكتروني أو الرسائل النصية القصيرة بقرب موعد سدادها من خلال قواعد الإرسال
-                                الآلي، بالإضافة إلى خيارات عرض تفاصيل الأقساط لكل عميل على حدة وحالة كل منها لسهولة
-                                فرزها ومتابعتها، وكذا إجمالي عمليات الدفع والمتبقي منها بدقة، إلى جانب بيانات وسيلة
-                                الدفع المستخدمة في دفع الأقساط
+                                أصبح الآن بإمكانك استخدام تطبيق نقاط البيع الجديد من دفترة الذي يعمل بمجرد تثبيته على
+                                جهازك دون حاجة للاتصال بالإنترنت، مع إمكانية إجراء مزامنة لبياناته مع حسابك السحابي عند
+                                توافر شبكة إنترنت لديك. وبذلك تكون قد جمعت بين مزايا الاحتفاظ بالبيانات واستدعائها من أي
+                                مكان بفضل النظام السحابي، وكذلك مزايا العمل دون حاجة للاتصال بالإنترنت.
                             </p>
                         </div>
                         <div class="circles">
@@ -310,8 +358,8 @@
                         </div>
                     </div>
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/payment-sc.png" alt="moon"
-                            class="img-fluid  mt-3 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
+                        <img src="../assets/images/assign-sc.png" alt="professional"
+                            class="img-fluid  mt-5 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
                             title="moon" />
                     </div>
                 </div>
@@ -319,100 +367,20 @@
             <section class="container mtt">
                 <div class="row pb-0 mt-5 gap-lg-2 position-relative">
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/stock-sc.png" alt="moon"
-                            class="img-fluid  mt-3 justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
+                        <img src="../assets/images/barcode.webp" alt="automated"
+                            class="img-fluid  justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
                             title="moon" />
                     </div>
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-3 text-center text-md-start">
-                                أضف العروض على منتجاتك لزيادة حجم <br> مبيعاتك
+                                استخدم أجهزة الباركود لإجراء عمليات البيع <br> بسهولة من خلال برنامج الكاشير
                             </h2>
                             <p class="text-black-50 fs-4 lh-base fw-bold mt-3 text-center text-md-start">
-                                يوفر لك النظام الأدوات المتقدمة اللازمة لزيادة حجم مبيعاتك. فمن خلال مزايا العروض؛ يمكنك
-                                إضافة العروض الموسمية أو الدائمة على المنتجات التي تقدمها لعملائك، حيث يمكنك تحديد
-                                خصومات لفترات معينة على منتج أو مجموعة منتجات أو تصنيف معين في متجرك أو شركتك سواء كان
-                                خصومات الصيف أو تصفيات الشتاء أو خصومات الجمعة البيضاء وغيرها من الفترات أو المواسم التي
-                                تعد فرصة لزيادة الأرباح، ويمكنك الاختيار من بين خيارات الخصم المختلفة سواء نسبة أو مبلغ
-                                أو شراء منتج والحصول على آخر مجاني وغيرها من الخيارات لمساعدتك في الوصول إلى أهداف
-                                مبيعاتك المنشودة.
-                            </p>
-                        </div>
-                        <div class="circles2">
-                            <img src="../assets/images/circles-r.webp" alt="circles" class="img-fluid">
-                        </div>
-                    </div>
-                </div>
-            </section>
-        </div>
-        <div class="bg-color mb-5 mtt-3 rounded-4">
-            <div class="d-lg-flex align-items-center justify-content-evenly">
-                <div>
-                    <img src="../../public/Z4U_White.png" alt="" width="220" class="img-fluid">
-                </div>
-                <div class="d-flex flex-column text-sm-center justify-content-center g-3">
-                    <h2 class="fw-bold text-white ">
-                        احصل على تجربتك المجانية
-                    </h2>
-                    <p class="fw-bold text-white fs-4">
-                        سجِّل حسابك في دفترة في خطوات بسيطة من دون الحاجة إلى بطاقة ائتمان
-                    </p>
-                    <a href="/"
-                        class="btn btn-primary rounded-4 py-2 col-12  mt-3 fw-bold  animate__animated animate__slideInUp animate__slower 2s"
-                        title="استشارة مجانية" aria-label="استشارة مجانية" target="_blank" rel="noopener noreferrer">
-                        ابدء الاستخدام مجانا
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div class="bg-settings mtt">
-            <section class="container mt-5">
-                <div class="row pb-0 mt-5 gap-lg-2 position-relative">
-                    <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
-                        <div>
-                            <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                حدد حجم المبيعات المستهدفة وأداء <br> مسؤولي المبيعات وعمولاتهم بفعالية
-                            </h2>
-                            <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                حدد مبيعاتك المستهدفة والعمولات الخاصة بها بدقة من خلال الأدوات المتقدمة وخصائص الأتمتة
-                                في نظام دفترة التي تتيح لك تحقيق الأهداف المرجوة من أعمالك عبر إدارة سلسة واحترافية
-                                لفريق المبيعات لديك، حيث يمكنك تحديد حجم المبيعات المستهدفة لكل منهم على حدة سواء على
-                                مبالغ مالية مستهدفة أو كمية منتجات مباعة، وكذلك حساب العمولات الخاصة بكل منهم على حدة
-                                سواء على الفواتير المدفوعة بالكامل أو المدفوعة جزئيًا، وذلك عن كل فترة مبيعات معينة مع
-                                إمكانية صرف هذه العمولات مع رواتب موظفيك.
-                            </p>
-                        </div>
-                        <div class="circles">
-                            <img src="../assets/images/circles.png" alt="circles" class="img-fluid">
-                        </div>
-                    </div>
-                    <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/customer-sc.png" alt="moon"
-                            class="img-fluid  mt-3 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
-                            title="moon" />
-                    </div>
-                </div>
-            </section>
-            <section class="container mtt mb-5">
-                <div class="row pb-0 mt-5 gap-lg-2 position-relative">
-                    <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/co-payment-sc.png" alt="moon"
-                            class="img-fluid  mt-3 justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
-                            title="moon" />
-                    </div>
-                    <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
-                        <div>
-                            <h2 class="text-black fw-bolder lh-base mb-3 text-center text-md-start">
-                                أدِر تأمينات عملائك وحدد الفئات <br> والشرائح الخاصة بشركات التأمين
-                            </h2>
-                            <p class="text-black-50 fs-4 lh-base fw-bold mt-3 text-center text-md-start">
-                                أدِر تأمينات العملاء لديك وعرِّف شركات التأمين باحترافية مع نظام دفترة. باستخدام الأدوات
-                                المتقدمة وخصائص الأتمتة في برنامج التأمينات؛ يمكنك حفظ بيانات الشركات المتعاقد معها
-                                وتحديد شروطها التأمينية ونسب الخصم للعملاء المنتفعين من الخطط التأمينية. احصل على تجربة
-                                مرنة عند تحديد نسب التأمين وتعريف الفئات والشرائح التأمينية المختلفة لدى كل شركة وحسابها
-                                بدقة. وحدد المنتجات والخدمات التي تخضع كل منها لنسب التأمين المتفق عليها، وسيعمل دفترة
-                                على تطبيقها آليًا في الفواتير الصادرة للعملاء المنتفعين؛ إلى جانب حساب المبالغ المستحقة
-                                على شركات التأمين بسلاسة على نحو دقيق.
+                                يدعم برنامج نقاط بيع دفترة استخدام أجهزة الباركود للبحث عن المنتجات وإدخالها في الفواتير
+                                عند عملية البيع توفيرًا للوقت والجهد لمسؤولي المبيعات لديك، عند مسح الباركود من خلال
+                                الأجهزة المدعومة؛ تظهر بيانات المنتج كاملة على شاشة جهاز نقطة البيع المستخدم بما في ذلك
+                                سعر المنتج وتصنيفه والخصم أو العرض المطبق عليه.
                             </p>
                         </div>
                         <div class="circles2">
@@ -424,49 +392,45 @@
         </div>
         <div class="bg-settings mtt">
             <section class="container mt-5">
-                <div class="row pb-0 mt-5 gap-lg-4 position-relative">
-                    <div class="col-lg-5 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
+                <div class="row pb-0 mt-5 gap-lg-2 position-relative">
+                    <div class="col-lg-6 col-md-6 mt-0 m mtt mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                صمِّم قوالب الفواتير وعروض الأسعار بما <br> يلائم هوية علامتك التجارية
+                                اعثر على منتجاتك باستخدام الباركود عبر <br> كاميرا جهازك
                             </h2>
                             <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                يوفر لك نظام دفترة مجموعة من القوالب الجاهزة للطباعة أو الاستخدام بما في ذلك قوالب
-                                الفواتير الإلكترونية وعروض الأسعار والفواتير الدورية والمرتجعة، كما يتيح لك التعديل
-                                عليها بما في ذلك المسمى وبيانات الشركة والشعار، إلى جانب التعديل على مقدمة النموذج
-                                وتذييله وأعمدة البنود والتنسيق العام حسب الحاجة، كما يتيح لك النظام إنشاء نموذج فاتورة
-                                من البداية باستخدام الأدوات المضمنة في مصمم النماذج، وكذلك إمكانية حفظ فاتورة تم إنشاؤها
-                                لأول مرة كقالب لاستخدامه فيما بعد بسهولة بضغطة زر واحدة.
+                                يتيح لك دفترة إمكانية استدعاء المنتجات ومسح الباركود الخاص بها باستخدام كاميرا جهازك،
+                                وعندها يمكنك إدخال هذا المنتج إلى شاشة الكاشير المستخدمة بكافة البيانات من اسم وتصنيف
+                                وخصم وعروض موسمية لإتمام عملية البيع المطلوبة بسرعة.
                             </p>
                         </div>
                         <div class="circles">
                             <img src="../assets/images/circles.png" alt="circles" class="img-fluid">
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 d-flex justify-content-center">
-                        <img src="../assets/images/invoice-sc1.png" alt="moon"
-                            class="img-fluid  mt-3 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
+                    <div class="col-lg-5 col-md-6">
+                        <img src="../assets/images/scan-products.webp" alt="professional"
+                            class="img-fluid  mt-5 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
                             title="moon" />
                     </div>
                 </div>
             </section>
-            <section class="container mtt mb-5">
+            <section class="container mtt">
                 <div class="row pb-0 mt-5 gap-lg-2 position-relative">
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/home-customize.png" alt="moon"
-                            class="img-fluid  mt-3 justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
+                        <img src="../assets/images/full-summary.webp" alt="automated"
+                            class="img-fluid  justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
                             title="moon" />
                     </div>
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-3 text-center text-md-start">
-                                خصِّص الفواتير وعروض أسعارك عبر <br> الحقول الإضافية باحترافية
+                                برنامج الكاشير يمكنك من استعراض ملخصًا <br> وافيًا عقب إنهاء كل جلسة بيع
                             </h2>
                             <p class="text-black-50 fs-4 lh-base fw-bold mt-3 text-center text-md-start">
-                                ضمِّن كافة البيانات المطلوبة في فواتيرك وعروض أسعارك مستخدمًا الأدوات المتقدمة التي
-                                يوفرها لك دفترة، حيث يتيح لك إمكانية إضافة حقول مخصصة سواء في الفاتورة أو عرض الأسعار أو
-                                غيرها من الشاشات المضمنة في برنامج إدارة المبيعات بسهولة من خلال السحب والإفلات حسب حاجة
-                                أعمالك،
+                                استعرض ملخصًا تفصيليًا ووافيًا عن كل جلسة بيع فور إغلاقها، بما في ذلك رقم الوردية واسم
+                                الجهاز والموظف المسؤول، وكذا موعد بدء الجلسة وإغلاقها، قم بإجراء تسويات فورية عقب انتهاء
+                                كل جلسة لضبط أي فوارق في النقدية المستلمة سواء بالزيادة أو النقص.
                             </p>
                         </div>
                         <div class="circles2">
@@ -475,20 +439,18 @@
                     </div>
                 </div>
             </section>
-            <section class="container mtt mb-5">
+            <section class="container mt-5">
                 <div class="row pb-0 mt-5 gap-lg-2 position-relative">
-                    <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
+                    <div class="col-lg-6 col-md-6 mt-0 m mtt mb-5 mb-md-0 order-1 order-md-0">
                         <div>
-                            <h2 class="text-black fw-bolder lh-base mb-3 text-center text-md-start">
-                                راقب مبيعاتك وأرباحك بدقة عبر تقارير مفصلة
+                            <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
+                                أصدِر التقارير التفصيلية لنتائج جلسات البيع <br> خلال نظام نقاط البيع
                             </h2>
-                            <p class="text-black-50 fs-4 lh-base fw-bold mt-3 text-center text-md-start">
-                                تعرف على حجم مبيعاتك الكلي وما تحقق من أرباح مستهدفة من خلال تقارير تفصيلية يصدرها نظام
-                                دفترة لمساعدتك في اتخاذ قرارات تساهم في زيادة أرباحك وإدارة عملية البيع لديك باحترافية،
-                                حيث يوفر لك إمكانية إصدار تقارير مفصلة لمتابعة الفواتير التي تم إنشاؤها وكذلك المدفوعات
-                                ومبيعات الأصناف وتقارير الأرباح والخسائر ومبيعات البنود؛ وذلك حسب المنتج أو التصنيف أو
-                                مسؤول المبيعات أو العميل أو الفترة الزمنية وغيرها من عوامل الفلترة المتنوعة للحصول على
-                                رؤية أوضح عن أداء أعمالك ومدى تحقق الأهداف الموضوعة لها.
+                            <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
+                                استعرض مجموعة تقارير مفصلة لنتائج جلسات البيع للحصول على رؤية واضحة حول إجمالي المبيعات
+                                عن كل وردية على حدة أو للورديات مجمَّعة، وكذا تقارير حسب كل منتج أو تصنيف لديك تم بيعه
+                                في كل جلسة، إلى جانب تقارير الأرباح والخسائر التي تُظِهر إجمالي تكلفة البضاعة المباعة
+                                وقيمة الأرباح المحققة ونسبتها كل ذلك من خلال برنامج point of sale من دفترة .
                             </p>
                         </div>
                         <div class="circles">
@@ -496,8 +458,8 @@
                         </div>
                     </div>
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/report-sc.png" alt="moon"
-                            class="img-fluid  mt-3 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
+                        <img src="../assets/images/results.webp" alt="professional"
+                            class="img-fluid  mt-5 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
                             title="moon" />
                     </div>
                 </div>
@@ -524,65 +486,64 @@
             </div>
         </div>
         <!-- SALES -->
-         <section class="container">
-             <h1 class="text-center fw-bold">اسعار برنامج إدارة المبيعات</h1>
-             <div class="d-flex justify-content-center align-items-center mt-4">
-                 <div class="d-flex align-items-center gap-2 border-end p-2">
-                     <h4 class="fw-bold">يُدفع
-                         <p class="text-secondary fs-5 fw-bold mt-1">
-                             شهري
-                         </p>
-                     </h4>
-                     <div class="form-check form-switch">
-                         <input class="form-check-input" type="checkbox" id="toggleSwitch">
-                     </div>
-                     <h4 class="fw-bold">سنوي
-                         <p class="text-warning fs-5 fw-bold mt-1">
-                             خصم حتي %30
-                         </p>
-                     </h4>
-                 </div>
-                 <div class="d-flex align-items-center gap-2 border-end p-2">
-                     <h2 class="fw-bold text-center">الأساسية
-                         <p class="text-secondary fs-4 fw-bold mt-2">
+        <section class="container mtt mb-5">
+            <h1 class="text-center fw-bold">اسعار برنامج إدارة المبيعات</h1>
+            <div class="d-flex justify-content-center align-items-center mt-4">
+                <div class="d-flex align-items-center gap-2 border-end p-2">
+                    <h4 class="fw-bold">يُدفع
+                        <p class="text-secondary fs-5 fw-bold mt-1">
+                            شهري
+                        </p>
+                    </h4>
+                    <div class="form-check form-switch">
+                        <input class="form-check-input" type="checkbox" id="toggleSwitch">
+                    </div>
+                    <h4 class="fw-bold">سنوي
+                        <p class="text-warning fs-5 fw-bold mt-1">
+                            خصم حتي %30
+                        </p>
+                    </h4>
+                </div>
+                <div class="d-flex align-items-center gap-2 border-end p-2">
+                    <h2 class="fw-bold text-center">الأساسية
+                        <p class="text-secondary fs-4 fw-bold mt-2">
                             <span class="fs-3 text-black fw-bold"> 489 .50</span> ج.م شهرياً
-                         </p>
-                         <span class="text-secondary fs-6 fw-bold">
-                             يُدفع <span class="fs-3 text-black fw-bold">5874 ج.م</span>.مسنوياً
-                         </span>
-                     </h2>
-                 </div>
-                 <div class="d-flex align-items-center gap-2 border-end p-2">
-                     <h2 class="fw-bold text-center text-blue">المتقدمة
-                         <p class="text-secondary fs-4 fw-bold mt-2">
+                        </p>
+                        <span class="text-secondary fs-6 fw-bold">
+                            يُدفع <span class="fs-3 text-black fw-bold">5874 ج.م</span>.مسنوياً
+                        </span>
+                    </h2>
+                </div>
+                <div class="d-flex align-items-center gap-2 border-end p-2">
+                    <h2 class="fw-bold text-center text-blue">المتقدمة
+                        <p class="text-secondary fs-4 fw-bold mt-2">
                             <span class="fs-3 text-black fw-bold"> 997.50</span> ج.م شهرياً
-                         </p>
-                         <span class="text-secondary fs-6 fw-bold">
-                             يُدفع <span class="fs-3 text-black fw-bold">11731 ج.م</span>.مسنوياً
-                         </span>
-                     </h2>
-                 </div>
-                 <div class="d-flex align-items-center gap-2  p-2">
-                     <h2 class="fw-bold text-center text-success">الشاملة <span class="fs-4 text-black-50">
-                         القيمة الأفضل
-                     </span>
-                         <p class="text-secondary fs-4 fw-bold mt-2">
+                        </p>
+                        <span class="text-secondary fs-6 fw-bold">
+                            يُدفع <span class="fs-3 text-black fw-bold">11731 ج.م</span>.مسنوياً
+                        </span>
+                    </h2>
+                </div>
+                <div class="d-flex align-items-center gap-2  p-2">
+                    <h2 class="fw-bold text-center text-success">الشاملة <span class="fs-4 text-black-50">
+                            القيمة الأفضل
+                        </span>
+                        <p class="text-secondary fs-4 fw-bold mt-2">
                             <span class="fs-1 text-black fw-bold">1960</span> ج.م شهرياً
-                         </p>
-                         <span class="text-secondary fs-6 fw-bold">
-                             يُدفع <span class="fs-4 text-black fw-bold">23520 ج.م</span>.مسنوياً
-                         </span>
-                     </h2>
-                 </div>
-             </div>
-             <div class="d-flex align-items-center gap-2 justify-content-center mt-3 w-auto me-auto">
-                <a href="/"
-                    class="btn btn-primary rounded-1 pt-2 pb-2 mt-3 fw-bold text-center text-lg-start"
+                        </p>
+                        <span class="text-secondary fs-6 fw-bold">
+                            يُدفع <span class="fs-4 text-black fw-bold">23520 ج.م</span>.مسنوياً
+                        </span>
+                    </h2>
+                </div>
+            </div>
+            <div class="d-flex align-items-center gap-2 justify-content-center mt-3 w-auto me-auto">
+                <a href="/" class="btn btn-primary rounded-1 pt-2 pb-2 mt-3 fw-bold text-center text-lg-start"
                     title="ابدء الاستخدام مجانا" aria-label="ابدء الاستخدام مجانا " rel="noopener noreferrer">
                     ابدء الاستخدام مجانا
                 </a>
-             </div>
-             <div class="text-center">
+            </div>
+            <div class="text-center">
                 <h1 class="fw-bold">
                     14 يوم فترة تجريبية
                 </h1>
@@ -590,11 +551,12 @@
                     لا حاجة لبطاقة ائتمان ، قم بإلغاء الحساب في أي وقت.
                 </p>
                 <p class="fw-bold fs-5 text-black-50">
-                    ستمنحك نسخة تجريبية مدتها  14 يومًا حسابًا مجانيًا ، وعندما تنتهي الفترة التجريبية ، يمكنك ترقية نفس الحساب إلى الباقة المناسبة لك.
+                    ستمنحك نسخة تجريبية مدتها 14 يومًا حسابًا مجانيًا ، وعندما تنتهي الفترة التجريبية ، يمكنك ترقية نفس
+                    الحساب إلى الباقة المناسبة لك.
                 </p>
-             </div>
-         </section>
-         <!-- END-SALES -->
+            </div>
+        </section>
+        <!-- END-SALES -->
         <!-- cards -->
         <section class="container mb-5">
             <div class="mt-4">

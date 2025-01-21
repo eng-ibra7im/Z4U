@@ -10,7 +10,7 @@
           <div class="d-lg-flex justify-content-between  d-none col-xl-8 col-lg-9">
             <ul class="list-unstyled d-flex align-items-center mb-0 fw-bold me-auto gap-3">
               <li>
-                <RouterLink to="/fff" class="ms-3 cursor-pointer" exact-active-class="text-primary" title="blog"
+                <RouterLink to="/fatura" class="ms-3 cursor-pointer" exact-active-class="text-primary" title="blog"
                   aria-label="blog">
                   البرامج
                 </RouterLink>
@@ -22,7 +22,7 @@
                 </RouterLink>
               </li>
               <li>
-                <RouterLink to="/ss" class="ms-3 cursor-pointer" exact-active-class="text-primary" title="price"
+                <RouterLink to="/salary" class="ms-3 cursor-pointer" exact-active-class="text-primary" title="price"
                   aria-label="price">
                   الأسعار
                 </RouterLink>
