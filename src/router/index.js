@@ -59,6 +59,31 @@ const router = createRouter({
       path: "/egyptfatura",
       component: () => import("../views/egyptfaturaVIiew.vue"),
     },
+    {
+      name: "employeesettings",
+      path: "/employeesettings",
+      component: () => import("../views/employeesettingsVIiew.vue"),
+    },
+    {
+      name: "Loyaltypoints",
+      path: "/Loyaltpoints",
+      component: () => import("../views/LoyaltypointsVIiew.vue"),
+    },
+    {
+      name: "Pointscredits",
+      path: "/Pointscredits",
+      component: () => import("../views/PointscreditsVIiew.vue"),
+    },
+    {
+      name: "Subscriptionsmemberships",
+      path: "/Subscriptionsmemberships",
+      component: () => import("../views/SubscriptionsmembershipsVIiew.vue"),
+    },
+    {
+      name: "Inventorymanagement",
+      path: "/Inventorymanagement",
+      component: () => import("../views/InventorymanagementVIiew.vue"),
+    },
     // not found
     {
       name: "not-found",
