@@ -84,6 +84,41 @@ const router = createRouter({
       path: "/Inventorymanagement",
       component: () => import("../views/InventorymanagementVIiew.vue"),
     },
+    {
+      name: "Productmanagement",
+      path: "/Productmanagement",
+      component: () => import("../views/ProductmanagementVIiew.vue"),
+    },
+    {
+      name: "Purchasingmanagement",
+      path: "/Purchasingmanagement",
+      component: () => import("../views/PurchasingmanagementVIiew.vue"),
+    },
+    {
+      name: "Procurementcycle",
+      path: "/Procurementcycle",
+      component: () => import("../views/ProcurementcycleVIiew.vue"),
+    },
+    {
+      name: "Suppliermanagement",
+      path: "/Suppliermanagement",
+      component: () => import("../views/SuppliermanagementVIiew.vue"),
+    },
+    {
+      name: "warehousepermissions",
+      path: "/warehousepermissions",
+      component: () => import("../views/warehousepermissionsVIiew.vue"),
+    },
+    {
+      name: "Inventorymanagement2",
+      path: "/Inventorymanagement2",
+      component: () => import("../views/InventorymanagementVIieww.vue"),
+    },
+    {
+      name: "Manufacturingmanagement",
+      path: "/Manufacturingmanagement",
+      component: () => import("../views/ManufacturingmanagementView.vue"),
+    },
     // not found
     {
       name: "not-found",

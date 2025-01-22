@@ -7,7 +7,7 @@
                         برنامج إدارة المخزون <br> والمستودعات
                     </h1>
                     <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                        نظِّم حركة المنتجات في مستودعاتك وتتبعها بدقة مع برنامج إدارة المخزون من دفترة، وأضف عددًا غير
+                        نظِّم حركة المنتجات في مستودعاتك وتتبعها بدقة مع برنامج إدارة المخزون من Z4U، وأضف عددًا غير
                         محدود من المنتجات أو الخدمات أو المنتجات المجمعة؛ وتتبعها حسب العديد من الخيارات وأضف وحداتها
                         وتصنيفاتها ونظمها في قوائم أسعار حسب حاجة أعمالك.
                     </p>
@@ -128,14 +128,14 @@
                         <img src="../assets/images/sales-22.png" alt="sales-1" width="55" height="55"
                             class="img-fluid mx-auto mb-1">
                         <h4 class="fw-semibold  text-center text-decoration-underline"> الأذون المخزنية
- 
+
                         </h4>
                     </div>
                     <div class="d-flex flex-column justify-content-center p-2">
                         <img src="../assets/images/sales-33.png" alt="sales-1" width="53" height="50"
                             class="img-fluid mx-auto">
                         <h4 class="fw-semibold text-center  text-decoration-underline"> المنتجات المجمعة
- 
+
                         </h4>
                     </div>
                 </div>
@@ -145,13 +145,13 @@
                         <img src="../assets/images/sales-44.png" alt="sales-1" width="60" height="53"
                             class="img-fluid mx-auto mb-1">
                         <h4 class="fw-semibold text-decoration-underline text-center">وحدات القياس
- 
+
                         </h4>
                     </div>
                     <div class="d-flex flex-column justify-content-center p-2">
                         <img src="../assets/images/sales-55.png" alt="sales-1" width="50" height="50"
                             class="img-fluid mx-auto">
-                        <h4 class="fw-semibold text-decoration-underline text-center">الجرد 
+                        <h4 class="fw-semibold text-decoration-underline text-center">الجرد
                         </h4>
                     </div>
                 </div>
@@ -164,12 +164,14 @@
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                عرِّف الباقات والاشتراكات من خلال برنامج إدارة الاشتراكات الشهرية
+                                أضف منتجاتك عن طريق برنامج إدارة المخازن
                             </h2>
                             <p class="text-black-50 fs-5 lh-base fw-bold mt-4 text-center text-md-start">
-                                عرِّف الباقات والعضويات المختلفة وحدد سعر كل منها وفترة الاشتراك التي يحاسب عنها العميل.
-                                وسيعمل النظام على تفعيل الاشتراك وتحديد تاريخ الانتهاء وإرسال إشعارات عند حلول موعد
-                                التجديد للعميل.
+                                سجِّل منتجاتك أو خدماتك أو منتجاتك المجمعة من دون حد أقصى في ملف يحتوي على كل التفاصيل
+                                اللازمة بسهولة وفعالية، أو قم باستيراد قوائم المنتجات إلى حسابك من ملف معدِّ خارجيًا
+                                يتضمن كل تفاصيل المنتج بما في ذلك الاسم والكود والباركود وتفاصيل التسعير والتصنيف
+                                والكمية، وعدِّل كمية أي منتج يدويًا في مخزونك وأضف ملحوظات على كل عملية، إلى جانب تحديث
+                                منتجاتك من خلال استيراد ملف خارجي يتضمن البيانات الجديدة إلى حسابك لتوفير الوقت والجهد.
                             </p>
                         </div>
                         <div
@@ -191,7 +193,7 @@
                         </div>
                     </div>
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/packages-sc12.png" alt="moon"
+                        <img src="../assets/images/keeptrack-sc1.png" alt="moon"
                             class="img-fluid  mt-3 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
                             title="moon" />
                     </div>
@@ -200,20 +202,20 @@
             <section class="container mtt">
                 <div class="row pb-0 mt-5 gap-lg-2 position-relative">
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/addben-sc.png" alt="moon"
+                        <img src="../assets/images/quickly-sc1.png" alt="moon"
                             class="img-fluid  mt-2 justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
                             title="moon" />
                     </div>
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                عيِّن الاختصاصيين إلى عملائك لضمان <br> رضاهم عن خدماتك
+                                استدعِ منتجاتك سريعاً باستخدام أجهزة الباركود
                             </h2>
                             <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                حدد الموظفين المختصين للتعامل مع كل عميل لديك على حدة أو مجموعة من العملاء حسب الصلاحيات
-                                المتوفرة لكل منهم، وتتبع المهمات المسندة لكل موظف ومدى التقدم المحرّز بها، وتعرف على
-                                عمليات التواصل ومواعيد المقابلات والحجوزات بين موظفيك وعملائك، إلى جانب النشاطات
-                                والمعاملات التي تمت بين موظفيك وعملائك داخل الملف التعريفي للعملاء.
+                                استخدم أجهزة الباركود المدعومة بالكامل في نظام Z4U لإدارة أكثر سلاسة لمنتجاتك، بحيث
+                                تتمكن من استدعاء منتجاتك بسرعة لإضافتها إلى الفواتير من خلال قراءتها عن طريق أجهزة
+                                الباركود، كما يمكنك البحث عن المنتجات بالكود الخاص بها، إلى جانب تكامل تطبيق المخزون مع
+                                نقاط البيع بحيث تحصل على رؤية أوضح حول كمية المنتجات لديك وتصنيفاتها وأسعارها ووحداتها.
                             </p>
                         </div>
                         <div class="circles2">
@@ -229,12 +231,13 @@
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                تابع مدد الاشتراك والأرصدة <br> المستهلكة لكل عضو لديك
+                                أنشئ سجلًا خاصًا لمورديك وأصدر <br> فواتير الشراء باحترافية
                             </h2>
                             <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                راجع كل تفاصيل عضوية العميل والمدد المتبقية في الاشتراكات ومواعيد انتهائها من خلال
-                                واجهات عرض متقدمة سهلة الاستخدام، واستعرض الأرصدة المستهلكة واتخذ الإجراءات اللازمة
-                                لتجديد الاشتراكات أو زيادة الحصص والأرصدة للعميل.
+                                يتيح لك برنامج إدارة مخازن Z4U إدارة احترافية لقائمة الموردين الدائمين لديك، وذلك من
+                                خلال إنشاء ملف لكل مورد لديك يتضمن كافة بياناته من بيانات شخصية وبيانات تواصل ومعلومات
+                                عن شركته، بحيث تتمكن من الموافقة على عروض الأسعار الواردة منهم وتحويلها إلى فواتير شراء
+                                وإرسالها إليهم بسهولة.
                             </p>
                         </div>
                         <div class="circles">
@@ -242,7 +245,7 @@
                         </div>
                     </div>
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/tracksub-sc.png" alt="moon"
+                        <img src="../assets/images/create-sc1.png" alt="moon"
                             class="img-fluid  mt-3 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
                             title="moon" />
                     </div>
@@ -251,21 +254,20 @@
             <section class="container mtt">
                 <div class="row pb-0 mt-5 gap-lg-2 position-relative">
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/send-sc.png" alt="moon"
+                        <img src="../assets/images/automatic-sc1.png" alt="moon"
                             class="img-fluid   justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
                             title="moon" />
                     </div>
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                أصدر فواتير دورية للاشتراكات وفعِّل أو جدد الاشتراك تلقائيًا عند السداد
+                                احصل على تنبيهات عند نفاد أو نقص <br> كمية أحد منتجاتك من المخزون
                             </h2>
                             <p class="text-black-50 fs-5 lh-base fw-bold mt-4 text-center text-md-start">
-                                بما أن تطبيقات نظام دفترة متكاملة فيما بينها، فإن تطبيق العضويات والاشتراكات يعمل جنبًا
-                                إلى جنب مع تطبيق المبيعات والفوترة؛ مما يسهل من عملية إصدار فواتير العملاء الدورية عن
-                                الاشتراكات وتجديداتها الشهرية أو السنوية، وكذلك تفعيل الاشتراك أو تجديده تلقائيًا بمجرد
-                                إصدار فاتورة العميل المتضمنة للباقة أو العضوية، ولا يتشرط اتخاذ الإجراءات من تطبيق
-                                الاشتراكات والعضويات نفسه. إذ يعمل نظام دفترة على الربط بين النظامين ربطًا كاملًا.
+                                راقب منتجاتك وتتبع حركاتها في المخزون بدقة وفعالية، واحصل على تنبيهات تلقائية عند وصول
+                                كمية منتج لديك في مخازنك أو مستودعاتك إلى الحد الأدنى وعندها يكون بإمكانك إصدار فواتير
+                                الشراء اللازمة وإرسالها إلى مورديك بسرعة لاستيفاء احتياجات عملائك وزيادة أرباحك حسب
+                                الأهداف الموضوعة.
                             </p>
                         </div>
                         <div class="circles2">
@@ -281,12 +283,13 @@
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                استعرض التقارير التفصيلية <br> عن الاشتراكات الجديدة والمنتهية
+                                أنشئ المنتجات المجمعة وراقب استهلاك <br> الوحدات المكونة لها
                             </h2>
                             <p class="text-black-50 fs-5 lh-base fw-bold mt-4 text-center text-md-start">
-                                استخرج كشوفات مفصلة عن كافة اشتراكات العملاء واستعرض حالة العضوية لكل منهم وقسم العضويات
-                                حسب الجديدة والمنتهية، وتعرَّف على أكثر الباقات طلبًا من المشتركين والأخرى التي تحتاج
-                                إلى تحسين لزيادة مبيعاتها، وذلك مع مجموعة من التقارير المفصلة التي يوفرها لك النظام.
+                                أضف المنتجات المجمعة إلى برنامج إدارة المستودعات من Z4U حسب أعمالك بسهولة، حيث يتيح لك
+                                Z4U الأدوات المتقدمة والخصائص اللازمة لتتبع هذه المنتجات ومبيعاتها وكميتها في المخزون،
+                                وذلك من خلال ملف يحتوي على كل بيانات المنتج المجمع بالإضافة إلى تبويب خاص لتتبع هذا
+                                المنتج أو المنتجات التي تمثل تكوينه الأساسي.
                             </p>
                         </div>
                         <div class="circles">
@@ -294,9 +297,168 @@
                         </div>
                     </div>
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/detailed-sc2.png" alt="moon"
+                        <img src="../assets/images/bundle-sc1.png" alt="moon"
+                            class="img-fluid   justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
+                            title="moon" />
+                    </div>
+                </div>
+            </section>
+        </div>
+        <div class="bg-settings mtt mb-5">
+            <section class="container">
+                <div class="row pb-0 mt-5 gap-lg-2 position-relative">
+                    <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
+                        <div>
+                            <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
+                                تتبع منتجاتك عن طريق الرقم التسلسلي <br> أو تاريخ الانتهاء أو رقم الشحنة
+                            </h2>
+                            <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
+                                يتيح لك برنامج Z4U لإدارة المخازن إمكانية تتبع منتجاتك من خلال العديد من الخيارات؛
+                                سواء عبر الرقم التسلسلي أو رقم الشحنة أو تاريخ الانتهاء، ويتم ذلك عند إضافة منتج جديد،
+                                كما يمكنك استخدام خيارات التتبع المتاحة هذه في التعرف على كمية منتجاتك المتاحة في
+                                المخزون أولًا بأول وكذلك الحصول على تنبيهات عند وصول المنتج إلى كمية معينة تحددها عند
+                                إضافته إلى حسابك في النظام.
+                            </p>
+                        </div>
+                        <div class="circles">
+                            <img src="../assets/images/circles.png" alt="circles" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-5 col-md-6">
+                        <img src="../assets/images/addprod-sc2.svg" alt="moon"
                             class="img-fluid  mt-3 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
                             title="moon" />
+                    </div>
+                </div>
+            </section>
+            <section class="container mtt">
+                <div class="row pb-0 mt-5 gap-lg-2 position-relative">
+                    <div class="col-lg-5 col-md-6">
+                        <img src="../assets/images/stocktaking-sc2.png" alt="moon"
+                            class="img-fluid   justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
+                            title="moon" />
+                    </div>
+                    <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
+                        <div>
+                            <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
+                                أضف مستودعاتك وأصدر الأذون المخزنية <br> لتتبع حركة المنتجات على نحو دقيق
+                            </h2>
+                            <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
+                                أصدر أذونك المخزنية بسهولة مع الأدوات المتقدمة في Z4U، حيث يوفر لك الأدوات اللازمة
+                                لإضافة مستودعاتك المختلفة للتعرف على المنتجات الموجودة بها وإدارتها بسلاسة من مكان واحد،
+                                وكذلك إمكانية إضافة أذون لها سواء بصرف المنتجات عند البيع أو إذن إضافة عند الشراء أو
+                                التحويل بين أي منها في خطوات بسيطة.
+                            </p>
+                        </div>
+                        <div class="circles2">
+                            <img src="../assets/images/circles-r.webp" alt="circles" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <div class="bg-settings mtt mb-5">
+            <section class="container">
+                <div class="row pb-0 mt-5 gap-lg-2 position-relative">
+                    <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
+                        <div>
+                            <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
+                                اعرض سجلات الوارد والمنصرف للمنتجات بالتاريخ والساعة والموظف المسئول
+                            </h2>
+                            <p class="text-black-50 fs-5 lh-base fw-bold mt-4 text-center text-md-start">
+                                احصل على سجل مفصَّل لعمليات الشراء والبيع التي تتم على كل منتج على حدة متضمنةً التاريخ
+                                ورقم الفاتورة وأسعار الوحدة والكميات الواردة والمنصرفة تلقائيًا عقب كل عملية بيع أو
+                                شراء، وأضف عمليات الصرف أو التوريد يدويًا من دون فواتير مع تفاصيل كل عملية بما في ذلك
+                                السعر والكمية؛ وسيقوم البرنامج بحساب التكلفة والمخزون تلقائيًا بدلًا عنك، وكذا تنبيهك في
+                                حالة نقص الكمية في المخزون عن المحدد مسبقًا في ملف المنتج.
+                            </p>
+                        </div>
+                        <div class="circles">
+                            <img src="../assets/images/circles.png" alt="circles" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-5 col-md-6">
+                        <img src="../assets/images/followup-sc222.png" alt="moon"
+                            class="img-fluid  mt-3 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
+                            title="moon" />
+                    </div>
+                </div>
+            </section>
+            <section class="container mtt">
+                <div class="row pb-0 mt-5 gap-lg-2 position-relative">
+                    <div class="col-lg-5 col-md-6">
+                        <img src="../assets/images/stocktaking-sc2.png" alt="moon"
+                            class="img-fluid   justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
+                            title="moon" />
+                    </div>
+                    <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
+                        <div>
+                            <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
+                                نفِّذ عمليات الجرد لكافة مستودعاتك بدقة
+                            </h2>
+                            <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
+                                قم بإجراء عمليات الجرد لمخازنك أو مستودعاتك بفعالية من خلال إدارة الجرد في برنامج Z4U
+                                للمخازن والمستودعات، بحيث يُظِهر لك النظام كل منتجاتك بكمياتها المحدَّثة طبقًا لعمليات
+                                البيع والشراء التي تمت عليها لتقوم بمقارنتها بالكميات الفعلية الموجودة لديك في
+                                مستودعاتك، وبضغطة زر واحدة قم بإجراء التسوية المطلوبة وسيعمل النظام آلياً على معالجة
+                                النقص أو الزيادة في المخزون، وذلك لكل مستودعات شركتك من مكان واحد في أي وقت.
+                            </p>
+                        </div>
+                        <div class="circles2">
+                            <img src="../assets/images/circles-r.webp" alt="circles" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <div class="bg-settings mtt mb-5">
+            <section class="container">
+                <div class="row pb-0 mt-5 gap-lg-2 position-relative">
+                    <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
+                        <div>
+                            <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
+                                نظِّم أدوار أمناء المخازن والمستودعات بفعالية
+                            </h2>
+                            <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
+                                عيِّن صلاحيات محددة لكل موظف لديك وأسند إليه مسؤوليات حسب خبراته وكفاءته على النحو
+                                المطلوب، بما في ذلك إصدار الأذون المخزنية وفواتير الشراء وعمليات الجرد وغيرها للحصول على
+                                تجربة أكثر سلاسة داخل شركتك، وراقب أداء موظفيك من خلال تقارير لحظية ومتابعة فورية
+                                للتأثيرات والحركات التي تتم على المخزون داخل النظام.
+                            </p>
+                        </div>
+                        <div class="circles">
+                            <img src="../assets/images/circles.png" alt="circles" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-lg-5 col-md-6">
+                        <img src="../assets/images/followup-sc222.png" alt="moon"
+                            class="img-fluid  mt-3 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
+                            title="moon" />
+                    </div>
+                </div>
+            </section>
+            <section class="container mtt">
+                <div class="row pb-0 mt-5 gap-lg-2 position-relative">
+                    <div class="col-lg-5 col-md-6">
+                        <img src="../assets/images/performance-sc222.png" alt="moon"
+                            class="img-fluid   justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
+                            title="moon" />
+                    </div>
+                    <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
+                        <div>
+                            <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
+                                راقب أداء مخزونك وتابع حركات المنتجات به عبر التقارير التفصيلية
+                            </h2>
+                            <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
+                                أصدر تقارير مفصلة مع رسوم بيانية توضيحية للحصول على رؤية أوضح عن كل جوانب مخزونك، أصدر
+                                تقارير المخزون بما في ذلك ورقة الجرد والحركات التفصيلية للمخزون وملخص رصيد المخازن
+                                وميزان مراجعة المنتجات، وكذلك تقارير مبيعات المنتجات والمنتجات المجمعة وتتبع المنتجات
+                                سواء عبر الرقم التسلسلي أو رقم الشحنة أو تاريخ الانتهاء حسب الفترة المطلوبة.
+                            </p>
+                        </div>
+                        <div class="circles2">
+                            <img src="../assets/images/circles-r.webp" alt="circles" class="img-fluid">
+                        </div>
                     </div>
                 </div>
             </section>

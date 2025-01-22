@@ -1,80 +1,62 @@
 <template>
     <main class="overflow-hidden">
         <div class="container">
-            <div class="row pb-0  gap-lg-3">
+            <div class="row pb-0 gap-lg-3">
                 <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
-                    <h1 class="text-black fw-bolder lh-base display-5 mb-1 text-center text-md-start">
-                        برنامج إدارة نقاط الولاء
+                    <h1 class="text-black fw-bolder lh-base display-5 text-center text-md-start">
+                        برنامج إدارة التصنيع
                     </h1>
                     <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                        يعد حفاظك على العميل الحالي، وضمان تكرار عملياته الشرائية منك لا من غيرك، غاية العملية
-                        التسويقية، وهدف أسبق على اجتذاب عملاء جدد، وهذه هي الفائدة الأساسية من برنامج نقاط الولاء المقدم
-                        لك من Z4U، الإبقاء على عملائك. حيث تستطيع إنشاء قاعدة ولاء وتحديد مقدار النقاط التي يكتسبها
-                        العميل مقابل عملياته الشرائية لمنتجاتك أو خدماتك، ليتم تحويل هذه النقاط على إثر معامل التحويل
-                        إلى مبلغ مالي، يعادل خصم على فاتورة العميل، في الوقت الذي يراه مناسب لاستخدام نقاط ولاؤه، مما
-                        يدفعه للاستمرار في الشراء.
+                        يساعد برنامج التصنيع على إدارة عملية الإنتاج بالكامل، بدءًا من تتبع مسارات ومراحل الإنتاج،
+                        وإضافة محطات العمل، وإنشاء قوائم مواد الإنتاج التي تٌحوَّل إلى أوامر التصنيع؛ إلى ضبط التكاليف
+                        المباشرة وغير المباشرة وتوزيعها على المنتجات المُصنَّعة. بالإضافة لربط عملية التصنيع بالمخزون
+                        لتتبع المواد الخام المُستهلَّكة في العملية التصنيعية وكذا المنتجات النهائية والمواد الهالكة
+                        الناتجين عن التصنيع.
                     </p>
-                    <ul
-                        class="d-flex flex-column flex-lg-column flex-md-row gap-md-3 gap-0 gap-lg-0  mt-3 fs-5 fw-bold lh-base animate__animated animate__slideInRight animate__slower 2s ">
-                        <li class="my-1">
-                            يعتبر نظام ولاء Z4U نظام مرن تستطيع تشكيله لإرساء القواعد المناسبة لك.
-                        </li>
-                        <li class="my-1">
-                            إتاحة ربط برامج الولاء بالمناسبات الموسمية المختلفة وتفعيلها في فترات ما كالأعياد.
-                        </li>
-                        <li class="my-1">
-                            إمكانية تخصيص برامج الولاء لمجموعة تحددها من العملاء.
-                        </li>
-                        <li class="my-1">
-                            سهولة معرفة نقاط الولاء المكتسبة لكل عميل.
-                        </li>
-                        <li class="my-1">
-                            موازاة المبلغ المالي المحدد كخصم نقاط ولاء بعدد نقاط معين.
-                        </li>
-                    </ul>
+                    <div
+                        class="d-flex align-items-center gap-2 justify-content-center justify-content-lg-start w-auto me-auto">
+                        <a href="/"
+                            class="btn btn-primary rounded-1 pt-2 pb-2 mt-3 fw-bold text-center text-lg-start animate__animated animate__slideInUp animate__slower 2s"
+                            title="ابدء الاستخدام مجانا" aria-label="ابدء الاستخدام مجانا " rel="noopener noreferrer">
+                            ابدء الاستخدام مجانا
+                        </a>
+                        <a href="/"
+                            class="btn btn-outline-blue rounded-1 pt-2 px-3 pb-2 mt-3 fw-bold text-center text-lg-start animate__animated animate__slideInUp animate__slower 2s"
+                            title="" aria-label="" rel="noopener noreferrer">
+                            جولة سريعه
+                        </a>
+                    </div>
+                    <div class="d-flex flex-column mt-4">
+                        <div
+                            class="d-flex align-items-center justify-content-center justify-content-lg-start flex-wrap gap-2 gap-lg-4 ">
+                            <p class="fw-bold fs-5">
+                                <span>
+                                    <i class="bi bi-check-circle-fill"></i>
+                                </span>
+                                تجربة مجانية
+                            </p>
+                            <p class="fw-bold fs-5">
+                                <span>
+                                    <i class="bi bi-check-circle-fill"></i>
+                                </span>
+                                من دون بطاقة ائتمانية
+                            </p>
+                            <p class="fw-bold fs-5">
+                                <span>
+                                    <i class="bi bi-check-circle-fill"></i>
+                                </span>
+                                جاهز للعمل فورًا
+                            </p>
+                        </div>
+                        <img src="../assets/images/logosx_short.webp" alt="logosx_short" width="600"
+                            class="mt-2 img-fluid mx-auto mx-lg-0">
+                    </div>
                 </div>
                 <div class="col-lg-5 col-md-6">
-                    <img src="../assets/images/page-banner2.webp" alt="moon"
-                        class="img-fluid  mtt rounded-5 animate__animated animate__slideInDown animate__slower 2s"
+                    <img src="../assets/images/page-banne2r2.webp" alt="moon"
+                        class="img-fluid  mt-5 rounded-5 animate__animated animate__slideInDown animate__slower 2s"
                         title="moon" style="max-width: 100% ; height: auto; border-radius: 1.4rem;" />
                 </div>
-            </div>
-            <div class="d-flex align-items-center gap-2 justify-content-center justify-content-lg-start w-auto me-auto">
-                <a href="/"
-                    class="btn btn-primary rounded-1 pt-2 pb-2 mt-3 fw-bold text-center text-lg-start animate__animated animate__slideInUp animate__slower 2s"
-                    title="ابدء الاستخدام مجانا" aria-label="ابدء الاستخدام مجانا " rel="noopener noreferrer">
-                    ابدء الاستخدام مجانا
-                </a>
-                <a href="/"
-                    class="btn btn-outline-blue rounded-1 pt-2 px-3 pb-2 mt-3 fw-bold text-center text-lg-start animate__animated animate__slideInUp animate__slower 2s"
-                    title="" aria-label="" rel="noopener noreferrer">
-                    جولة سريعه
-                </a>
-            </div>
-            <div class="d-flex flex-column mt-4">
-                <div
-                    class="d-flex align-items-center justify-content-center justify-content-lg-start flex-wrap gap-2 gap-lg-4 ">
-                    <p class="fw-bold fs-5">
-                        <span>
-                            <i class="bi bi-check-circle-fill"></i>
-                        </span>
-                        تجربة مجانية
-                    </p>
-                    <p class="fw-bold fs-5">
-                        <span>
-                            <i class="bi bi-check-circle-fill"></i>
-                        </span>
-                        من دون بطاقة ائتمانية
-                    </p>
-                    <p class="fw-bold fs-5">
-                        <span>
-                            <i class="bi bi-check-circle-fill"></i>
-                        </span>
-                        جاهز للعمل فورًا
-                    </p>
-                </div>
-                <img src="../assets/images/logosx_short.webp" alt="logosx_short" width="600"
-                    class="mt-2 img-fluid mx-auto mx-lg-0">
             </div>
             <div class="bg-color mtt mb-5  rounded-4">
                 <div class="d-md-flex align-items-center justify-content-between">
@@ -100,61 +82,72 @@
         </div>
         <section class="container mtt">
             <h2 class="text-center fw-bold">
-                أنشئ علاقة احترافية مع <span class="text-blue">العملاء</span> وزِد من حجم مبيعاتك
+                أدِر <span class="text-blue">المخزون</span> وراقب حركة المستودعات بفاعلية
             </h2>
             <div class="d-lg-flex align-items-center justify-content-center  gap-4 mt-5">
 
                 <div class="d-flex align-items-center justify-content-center gap-4">
                     <div class=" d-flex flex-column g-2 justify-content-center p-2">
-                        <img src="../assets/images/clients.svg" alt="invoice -icon" width="50" height="50"
-                            class="img-fluid mx-auto mb-1">
-                        <h4 class="fw-semibold  text-center  text-decoration-underline">قائمة الاتصال</h4>
+                        <img src="../assets/images/sales-11.png" alt="invoice -icon" width="50" height="50"
+                            class="img-fluid mx-auto">
+                        <h4 class="fw-semibold  text-center  text-decoration-underline">تتبع المخزون </h4>
                     </div>
                     <div class="d-flex flex-column g-2 justify-content-center p-2">
-                        <img src="../assets/images/followup.svg" alt="sales-1" width="60" height="50"
-                            class="img-fluid mx-auto mb-1">
-                        <h4 class="fw-semibold  text-center  text-decoration-underline"> متابعة العملاء </h4>
+                        <img src="../assets/images/sales-5 (11).png" alt="sales-1" width="55" height="50"
+                            class="img-fluid mx-auto">
+                        <h4 class="fw-semibold  text-center  text-decoration-underline"> أجهزة الباركود
+                        </h4>
                     </div>
                 </div>
 
                 <div class="d-flex align-items-center justify-content-center gap-4 my-3 my-lg-0">
                     <div class="d-flex flex-column justify-content-center p-2">
-                        <img src="../assets/images/attendance.svg" alt="sales-1" width="48" height="50"
+                        <img src="../assets/images/sales-22.png" alt="sales-1" width="55" height="55"
                             class="img-fluid mx-auto mb-1">
-                        <h4 class="fw-semibold  text-center text-decoration-underline"> حضور العملاء
+                        <h4 class="fw-semibold  text-center text-decoration-underline"> الأذون المخزنية
+
                         </h4>
                     </div>
                     <div class="d-flex flex-column justify-content-center p-2">
-                        <img src="../assets/images/points.svg" alt="sales-1" width="53" height="50"
-                            class="img-fluid mx-auto mb-1">
-                        <h4 class="fw-semibold text-center  text-decoration-underline"> النقاط والأرصدة
+                        <img src="../assets/images/sales-33.png" alt="sales-1" width="53" height="50"
+                            class="img-fluid mx-auto">
+                        <h4 class="fw-semibold text-center  text-decoration-underline"> المنتجات المجمعة
+
                         </h4>
                     </div>
                 </div>
 
                 <div class="d-flex align-items-center justify-content-center gap-4">
                     <div class="d-flex flex-column justify-content-center p-2">
-                        <img src="../assets/images/membership.svg" alt="sales-1" width="58" height="50"
-                            class="img-fluid mx-auto mb-2">
-                        <h4 class="fw-semibold text-decoration-underline text-center">الاشتراكات والعضويات
+                        <img src="../assets/images/sales-44.png" alt="sales-1" width="60" height="53"
+                            class="img-fluid mx-auto mb-1">
+                        <h4 class="fw-semibold text-decoration-underline text-center">وحدات القياس
+
+                        </h4>
+                    </div>
+                    <div class="d-flex flex-column justify-content-center p-2">
+                        <img src="../assets/images/sales-55.png" alt="sales-1" width="50" height="50"
+                            class="img-fluid mx-auto">
+                        <h4 class="fw-semibold text-decoration-underline text-center">الجرد
                         </h4>
                     </div>
                 </div>
             </div>
         </section>
+
         <div class="bg-settings">
             <section class="container mtt">
                 <div class="row pb-0 mt-5 gap-lg-2 position-relative">
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                تحكم في تحديد قاعدة الولاء بالطريقة المناسبة لخططك التسويقية
+                                مراحل إنتاج سلسة ومنظمة
                             </h2>
-                            <p class="text-black-50 fs-5 lh-base fw-bold mt-4 text-center text-md-start">
-                                هناك طرق لا تحصى لإرساء نظام ولاء للعملاء، تختلف بحسب طبيعة عملك التجاري، والمنهجية
-                                التسويقية المتبعة لديك، لذلك يوفر لك Z4U برنامج نقاط ولاء عالي المرونة، ينفذ لك قاعدة
-                                الولاء التي تتصورها لربط عملائك بعلامتك التجارية،لتضمن عدم قدرتهم على استبدالك بمنافس
-                                آخر بسهولة.
+                            <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
+                                نظّم عملك من خلال مسارات الإنتاج؛ حيث يتكون كل مسار من عدة مراحل إنتاجية ويمكنك ربط كل
+                                محطة عمل (عملية تصنيعية)/ مادة خام/ مصروف بالمرحلة الإنتاجية المتعلقة به. وهو ما يجعل
+                                تقارير التصنيع مُصنَّفة، وكل معاملة منسوبة للمرحلة الإنتاجية التي حدثت بها، وهو ما ينتج
+                                عنه خطوات عمل مُرتَّبة، وتتبع دقيق، وتقارير أكثر موثوقية.
                             </p>
                         </div>
                         <div
@@ -176,8 +169,8 @@
                         </div>
                     </div>
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/identification.webp" alt="moon"
-                            class="img-fluid  mt-2 justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
+                        <img src="../assets/images/manufacturing_cycle.png" alt="moon"
+                            class="img-fluid   justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
                             title="moon" />
                     </div>
                 </div>
@@ -185,20 +178,20 @@
             <section class="container mtt">
                 <div class="row pb-0 mt-5 gap-lg-2 position-relative">
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/loyalty-programs.webp" alt="moon"
-                            class="img-fluid  justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
+                        <img src="../assets/images/manufacturing_costs.png" alt="moon"
+                            class="img-fluid   justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
                             title="moon" />
                     </div>
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                فعّل برامج ولاء متعددة لمختلف <br> المناسبات ومواسم العام
+                                تقدير دقيق للتكاليف المباشرة وغير المباشرة
                             </h2>
                             <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                يمكّنك Z4U من إنشاء قاعدة ولاء موسمية، على أن تجعل لها الأولوية في وقتها، مما يؤجل
-                                التعامل بقواعد الولاء الأخرى بصورة استثنائية، وما إن تنتهي الفترة، تستطيع تعطيل القاعدة
-                                الموسمية للعودة إلى نظام الولاء الاعتيادي، ضغطة زر واحدة، تدير لك قواعد ولاء عديدة،
-                                لفترات موسمية مختلفة كأوقات الأعياد، أو المناسبات الخاصة.
+                                وَزِّع التكاليف المباشرة وغير المباشرة على عناصر العملية الإنتاجية، وصنف التكاليف وفقًا
+                                لطبيعتها، واربط كل مصروف بالحساب المتعلق به إن أردت، وحمِّل التكلفة أيًا كان نوعها على
+                                المنتجات النهائية تبعًا لطريقة احتساب التكاليف التي تعمل بها، وهو ما ييسر احتساب تسعير
+                                منتجاتك بناءً على احتساب دقيق لتكلفة التصنيع.
                             </p>
                         </div>
                         <div class="circles2">
@@ -211,16 +204,17 @@
         <div class="bg-settings mtt mb-5">
             <section class="container">
                 <div class="row pb-0 mt-5 gap-lg-2 position-relative">
-                    <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
+                    <div class="col-lg-6 col-md-6 mt-0 mtt mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                خصص قواعد الولاء لبعض العملاء
+                                أضف قوائم مواد شاملة ومُفصَّلة
                             </h2>
                             <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                                تخصيص العروض من أنجح الطرق التسويقية؛ أن تستهدف العملاء بعد تقسيمهم بحسب شخصياتهم
-                                وشرائحهم السوقية، وهو ما يرفع نسبة الشراء بصورة مذهلة، لذا ستجد خاصية لتعيين قواعد
-                                الولاء بحسب فئات العملاء المحددين من طرفك، مع سهولة التعديل وإعادة التعيين تبعًا
-                                للمستجدات.
+                                أنشئ قائمة مواد الإنتاج باعتبارها قالب؛ ترتكز عليه لإنشاء أوامر تصنيع دقيقة. ويمكنك
+                                الاحتفاظ بنفس مكونات وكميات قائمة مواد الإنتاج في أمر التصنيع الناشىء عنها أو التعديل
+                                عليه ليناسب طلبات التصنيع المخصصة لأحد عملائك أو لفترة معينة. وتتضمن قوائم مواد الإنتاج
+                                المنتج النهائي المراد تصنيعه والمواد الخام والهالك، بالإضافة لمحطات العمل والتكاليف
+                                الإنتاجية.
                             </p>
                         </div>
                         <div class="circles">
@@ -228,8 +222,8 @@
                         </div>
                     </div>
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/loyalty-rules.webp" alt="moon"
-                            class="img-fluid   justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
+                        <img src="../assets/images/manufacturing_bom.png" alt="moon"
+                            class="img-fluid mt-5  justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
                             title="moon" />
                     </div>
                 </div>
@@ -237,20 +231,20 @@
             <section class="container mtt">
                 <div class="row pb-0 mt-5 gap-lg-2 position-relative">
                     <div class="col-lg-5 col-md-6">
-                        <img src="../assets/images/loyalty-points.webp" alt="moon"
-                            class="img-fluid  mt-3 justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
+                        <img src="../assets/images/manufacturing_inventory.png" alt="moon"
+                            class="img-fluid   justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
                             title="moon" />
                     </div>
                     <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
                         <div>
                             <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                                تتبع نقاط الولاء المكتسبة
+                                أوامر تصنيع مخصصة لعملياتك
                             </h2>
-                            <p class="text-black-50 fs-5 lh-base fw-bold mt-4 text-center text-md-start">
-                                يمكنك الوصول لإجابة دقيقة عن نقاط ولاء العملاء المكتسبة والمستهلكة، ومعرفة قدر ما يجنيه
-                                كل عميل من نقاط وقدر ما ينفقه ومدى زيادة مشترياته، لمراعاة النمط التسويقي لعملائك،
-                                وإعادة تفعيل القواعد بما يلبي احتياجاتهم ويزيد رضاهم، ويشجع على استمرارهم في تكرار
-                                الشراء بالتبعية.
+                            <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
+                                أنشئ أوامر التصنيع بناءً على قائمة المواد الخاصة بك، وحدد بها كافة التكاليف المالية
+                                والتشغيلية الخاصة بالمنتج. وبناءً على أمر التصنيع تبدأ التوجيهات التنفيذية فتستطيع صرف
+                                المواد الخام من المخزون، واستقبال المنتج النهائي بعد التصنيع في مستودعاتك، لتنشأ الحركات
+                                المخزنية والقيود المحاسبية نتيجة لذلك، كما يتم إنشاء تقارير التكاليف آليًا.
                             </p>
                         </div>
                         <div class="circles2">
@@ -260,52 +254,59 @@
                 </div>
             </section>
         </div>
-        <section class="container">
-            <div class="row pb-0 mt-5 gap-lg-2 position-relative">
-                <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
-                    <div>
-                        <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
-                            حدد قدر ما تريد إنفاقه لكسب ولاء العميل
-                        </h2>
-                        <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
-                            تستطيع من خلال قاعدة معامل تحويل الرصيد، تحديد الخصم المستحق لكل عميل مقابل كم معين من
-                            النقاط، ويتبع الأمر ميزانيتك التسويقية، بعد حساب العائد على استثمارك في ولاء العملاء، فقد
-                            يكون مقابل النقطة الواحدة عشرة ريالات، أو كل عشر نقاط تساوي ريال، تتحكم فيما تدفع كما تريد.
-                        </p>
+
+        <div class="bg-settings mtt mb-5">
+            <section class="container">
+                <div class="row pb-0 mt-5 gap-lg-2 position-relative">
+                    <div class="col-lg-6 col-md-6 mt-0 mtt mb-5 mb-md-0 order-1 order-md-0">
+                        <div>
+                            <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
+                                أدر العمليات التشغيلية عبر محطات العمل
+                            </h2>
+                            <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
+                                ربط أوامر التصنيع بمحطات عمل معينة يسمح لك باحتساب الجوانب التشغيلية المتعلقة بمحطة
+                                العمل؛ فتٌحتسَّب التكلفة تبعًا لفترة التشغيل وتكلفة الأجور الخاصة بعمال هذه المحطة،
+                                وتكلفة الأصول المستخدمة في عملية التصنيع، وأي مصروفات أخرى.
+                            </p>
+                        </div>
+                        <div class="circles">
+                            <img src="../assets/images/circles.png" alt="circles" class="img-fluid">
+                        </div>
                     </div>
-                    <div class="circles">
-                        <img src="../assets/images/circles.png" alt="circles" class="img-fluid">
+                    <div class="col-lg-5 col-md-6">
+                        <img src="../assets/images/manufacturing_workstation.png" alt="moon"
+                            class="img-fluid mt-5  justify-content-center rounded-5 animate__animated animate__slideInLeft animate__slower 2s"
+                            title="moon" />
                     </div>
                 </div>
-                <div class="col-lg-5 col-md-6">
-                    <img src="../assets/images/customer-loyalty.webp" alt="moon"
-                        class="img-fluid  mt-3 justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
-                        title="moon" />
+            </section>
+            <section class="container mtt">
+                <div class="row pb-0 mt-5 gap-lg-2 position-relative">
+                    <div class="col-lg-5 col-md-6">
+                        <img src="../assets/images/manufacturing_finance.png" alt="moon"
+                            class="img-fluid   justify-content-center rounded-5 animate__animated animate__slideInRight animate__slower 2s"
+                            title="moon" />
+                    </div>
+                    <div class="col-lg-6 col-md-6 mt-0 mt-lg-5 mb-5 mb-md-0 order-1 order-md-0">
+                        <div>
+                            <h2 class="text-black fw-bolder lh-base mb-4 text-center text-md-start">
+                                أصدر تقارير التكاليف في لحظات
+                            </h2>
+                            <p class="text-black-50 fs-4 lh-base fw-bold mt-4 text-center text-md-start">
+                                أصدر تقارير مفصلة للتكاليف؛ وحلل وتتبع تكاليف كل مرحلة إنتاجية، حتى تتمكن من معالجة أوجه
+                                القصور، وتتخذ القرارات اللازمة لتخفيض تكاليف التشغيل وتحسين عملياتك التصنيعية القادمة.
+                            </p>
+                        </div>
+                        <div class="circles2">
+                            <img src="../assets/images/circles-r.webp" alt="circles" class="img-fluid">
+                        </div>
+                    </div>
                 </div>
-            </div>
-        </section>
-        <div class="bg-color mb-5 mtt-3 rounded-4">
-            <div class="d-lg-flex align-items-center justify-content-evenly">
-                <div>
-                    <img src="../../public/Z4U_White.png" alt="" width="220" class="img-fluid">
-                </div>
-                <div class="d-flex flex-column text-sm-center justify-content-center g-3">
-                    <h2 class="fw-bold text-white ">
-                        احصل على تجربتك المجانية
-                    </h2>
-                    <p class="fw-bold text-white fs-4">
-                        سجِّل حسابك في Z4U في خطوات بسيطة من دون الحاجة إلى بطاقة ائتمان
-                    </p>
-                    <a href="/"
-                        class="btn btn-primary rounded-4 py-2 col-12  mt-3 fw-bold  animate__animated animate__slideInUp animate__slower 2s"
-                        title="استشارة مجانية" aria-label="استشارة مجانية" target="_blank" rel="noopener noreferrer">
-                        ابدء الاستخدام مجانا
-                    </a>
-                </div>
-            </div>
+            </section>
         </div>
+
         <!-- SALES -->
-        <section class="container mtt">
+        <section class="container mtt-3">
             <h1 class="text-center fw-bold">اسعار برنامج إدارة المبيعات</h1>
             <div class="d-flex justify-content-center align-items-center mt-4">
                 <div class="d-flex align-items-center gap-2 border-end p-2">
@@ -424,7 +425,7 @@
                         </h3>
                         <p class="mt-2 fw-bold fs-5 text-black-50 ">
                             يولي نظام Z4U اهتمامًا بالغًا بسلامة بياناتكم على خوادمنا، لذا نستخدم ... </p>
-                        <div class="card-hover  py-4 px-3">
+                        <div class="card-hover  py-1 px-3">
                             <h3 class="fw-bold text-white">
                                 الأمان
                                 <br>
@@ -453,7 +454,7 @@
                         <p class="mt-1 fw-bold fs-5 text-black-50 ">
                             خصِّص النظام بما يتوافق مع مجال عملك من خلال تفعيل التطبيقات ...
                         </p>
-                        <div class="card-hover  py-4 px-3">
+                        <div class="card-hover  py-3  px-3">
                             <h3 class="fw-bold text-white">
                                 تجربة مخصصة
                                 <br>
@@ -533,7 +534,7 @@
                         <p class="mt-2 fw-bold fs-5 text-black-50 ">
                             لكونه نظامًا سحابيًا على خوادم مؤمنة بالكامل، فستجد Z4U في متناول ...
                         </p>
-                        <div class="card-hover  py-4 px-3">
+                        <div class="card-hover  py-1 px-3">
                             <h3 class="fw-bold text-white">
                                 توفير الوقت
                                 <br>
@@ -792,36 +793,50 @@ textarea:focus {
     border: 2px solid var(--accent-200);
   } */
 
-.card-hover {
+/* .card-hover {
     background: blue;
     position: absolute;
-    /* Ensure proper positioning */
     top: 0px;
     right: 0px;
     border-top-right-radius: 1.5rem;
     border-bottom-left-radius: 1.5rem;
     cursor: pointer;
     visibility: hidden;
-    /* Initially hidden */
     display: none;
     z-index: 1;
-    /* Keep it above other elements if necessary */
 }
 
 .parent {
     position: relative;
-    /* Make it the reference point for .card-hover */
     cursor: pointer;
 }
 
 .parent:hover+.card-hover,
 .parent:focus+.card-hover {
     visibility: visible;
-    /* Make it visible on hover or focus */
     display: flex;
+} */
+
+.parent {
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+}
+.card-hover {
+    background: blue;
+    position: absolute;
+    top: 100%;
+    right: 0px;
+    border-top-right-radius: 1.5rem !important;
+    border-bottom-left-radius: 1.5rem !important;
+    cursor: pointer;
+    z-index: 1;
+    transition: 0.2s;
 }
 
-
+.parent:hover>.card-hover{
+    top: 0;
+}
 
 form input,
 select,
