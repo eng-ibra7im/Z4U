@@ -12,9 +12,8 @@
         </div>
         <!-- SALES -->
         <section class="container mtt-3">
-            <h1 class="text-center fw-bold">اسعار برنامج إدارة المبيعات</h1>
-            <div class="d-flex justify-content-center align-items-center mt-4">
-                <div class="d-flex align-items-center gap-2 border-end p-2">
+            <div class="d-flex justify-content-center border-top border-bottom  align-items-center mt-4">
+                <div class="d-flex align-items-center gap-2 border-end p-2 pe-3">
                     <h4 class="fw-bold">يُدفع
                         <p class="text-secondary fs-5 fw-bold mt-1">
                             شهري
@@ -29,7 +28,7 @@
                         </p>
                     </h4>
                 </div>
-                <div class="d-flex align-items-center gap-2 border-end p-2">
+                <div class="d-flex align-items-center gap-2 border-end  pe-4 p-2">
                     <h2 class="fw-bold text-center">الأساسية
                         <p class="text-secondary fs-4 fw-bold mt-2">
                             <span class="fs-3 text-black fw-bold"> 489 .50</span> ج.م شهرياً
@@ -39,7 +38,7 @@
                         </span>
                     </h2>
                 </div>
-                <div class="d-flex align-items-center gap-2 border-end p-2">
+                <div class="d-flex align-items-center gap-2 border-end pe-4 p-2">
                     <h2 class="fw-bold text-center text-blue">المتقدمة
                         <p class="text-secondary fs-4 fw-bold mt-2">
                             <span class="fs-3 text-black fw-bold"> 997.50</span> ج.م شهرياً
@@ -49,7 +48,7 @@
                         </span>
                     </h2>
                 </div>
-                <div class="d-flex align-items-center gap-2  p-2">
+                <div class="d-flex align-items-center gap-2  pe-4 p-2">
                     <h2 class="fw-bold text-center text-success">الشاملة <span class="fs-4 text-black-50">
                             القيمة الأفضل
                         </span>
@@ -61,24 +60,6 @@
                         </span>
                     </h2>
                 </div>
-            </div>
-            <div class="d-flex align-items-center gap-2 justify-content-center mt-3 w-auto me-auto">
-                <a href="/" class="btn btn-primary rounded-1 pt-2 pb-2 mt-3 fw-bold text-center text-lg-start"
-                    title="ابدء الاستخدام مجانا" aria-label="ابدء الاستخدام مجانا " rel="noopener noreferrer">
-                    ابدء الاستخدام مجانا
-                </a>
-            </div>
-            <div class="text-center">
-                <h1 class="fw-bold">
-                    14 يوم فترة تجريبية
-                </h1>
-                <p class="fw-bold fs-5 mt-4 text-black-50">
-                    لا حاجة لبطاقة ائتمان ، قم بإلغاء الحساب في أي وقت.
-                </p>
-                <p class="fw-bold fs-5 text-black-50">
-                    ستمنحك نسخة تجريبية مدتها 14 يومًا حسابًا مجانيًا ، وعندما تنتهي الفترة التجريبية ، يمكنك ترقية نفس
-                    الحساب إلى الباقة المناسبة لك.
-                </p>
             </div>
         </section>
         <!-- END-SALES -->
