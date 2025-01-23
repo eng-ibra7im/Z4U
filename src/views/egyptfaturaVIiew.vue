@@ -239,8 +239,8 @@
                 </div>
             </section>
         </div>
-        <!-- SALES -->
-        <section class="container mtt-3 mb-5">
+            <!-- SALES -->
+            <section class="container mtt-3">
             <h1 class="text-center fw-bold">اسعار برنامج إدارة المبيعات</h1>
             <div class="d-flex justify-content-center align-items-center mt-4">
                 <div class="d-flex align-items-center gap-2 border-end p-2">

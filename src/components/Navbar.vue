@@ -22,7 +22,7 @@
                 </RouterLink>
               </li>
               <li>
-                <RouterLink to="/salary" class="ms-3 cursor-pointer" exact-active-class="text-primary" title="price"
+                <RouterLink to="/Prices" class="ms-3 cursor-pointer" exact-active-class="text-primary" title="price"
                   aria-label="price">
                   الأسعار
                 </RouterLink>

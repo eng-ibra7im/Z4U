@@ -845,40 +845,26 @@ textarea:focus {
     color: #fff;
 }
 
-/* .cards {
-    border: 2px solid var(--accent-200);
-  } */
-
+.parent {
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+}
 .card-hover {
     background: blue;
     position: absolute;
-    /* Ensure proper positioning */
-    top: 0px;
+    top: 100%;
     right: 0px;
-    border-top-right-radius: 1.5rem;
-    border-bottom-left-radius: 1.5rem;
+    border-top-right-radius: 1.5rem !important;
+    border-bottom-left-radius: 1.5rem !important;
     cursor: pointer;
-    visibility: hidden;
-    /* Initially hidden */
-    display: none;
     z-index: 1;
-    /* Keep it above other elements if necessary */
+    transition: 0.2s;
 }
 
-.parent {
-    position: relative;
-    /* Make it the reference point for .card-hover */
-    cursor: pointer;
+.parent:hover>.card-hover{
+    top: 0;
 }
-
-.parent:hover+.card-hover,
-.parent:focus+.card-hover {
-    visibility: visible;
-    /* Make it visible on hover or focus */
-    display: flex;
-}
-
-
 
 form input,
 select,
