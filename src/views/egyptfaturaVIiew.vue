@@ -239,8 +239,8 @@
                 </div>
             </section>
         </div>
-            <!-- SALES -->
-            <section class="container mtt-3">
+        <!-- SALES -->
+        <section class="container mtt-3">
             <h1 class="text-center fw-bold">اسعار برنامج إدارة المبيعات</h1>
             <div class="d-flex justify-content-center align-items-center mt-4">
                 <div class="d-flex align-items-center gap-2 border-end p-2">
@@ -332,7 +332,7 @@
             </div>
         </div>
         <!-- cards -->
-        <section class="container mb-5 mtt">
+        <section class="container mb-5">
             <div class="mt-4">
                 <h1 class="fw-bold">
                     لماذا يُعَدُّ <span class="text-blue">Z4U</span>
@@ -379,7 +379,7 @@
                         </h3>
                         <p class="mt-2 fw-bold fs-5 text-black-50 ">
                             يولي نظام Z4U اهتمامًا بالغًا بسلامة بياناتكم على خوادمنا، لذا نستخدم ... </p>
-                        <div class="card-hover  py-4 px-3">
+                        <div class="card-hover  py-1 px-3">
                             <h3 class="fw-bold text-white">
                                 الأمان
                                 <br>
@@ -408,7 +408,7 @@
                         <p class="mt-1 fw-bold fs-5 text-black-50 ">
                             خصِّص النظام بما يتوافق مع مجال عملك من خلال تفعيل التطبيقات ...
                         </p>
-                        <div class="card-hover  py-4 px-3">
+                        <div class="card-hover  py-3  px-3">
                             <h3 class="fw-bold text-white">
                                 تجربة مخصصة
                                 <br>
@@ -488,7 +488,7 @@
                         <p class="mt-2 fw-bold fs-5 text-black-50 ">
                             لكونه نظامًا سحابيًا على خوادم مؤمنة بالكامل، فستجد Z4U في متناول ...
                         </p>
-                        <div class="card-hover  py-4 px-3">
+                        <div class="card-hover  py-1 px-3">
                             <h3 class="fw-bold text-white">
                                 توفير الوقت
                                 <br>
@@ -747,11 +747,12 @@ textarea:focus {
     border: 2px solid var(--accent-200);
   } */
 
-  .parent {
+.parent {
     position: relative;
     cursor: pointer;
     overflow: hidden;
 }
+
 .card-hover {
     background: blue;
     position: absolute;
@@ -764,7 +765,7 @@ textarea:focus {
     transition: 0.2s;
 }
 
-.parent:hover>.card-hover{
+.parent:hover>.card-hover {
     top: 0;
 }
 

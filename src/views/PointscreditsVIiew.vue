@@ -360,8 +360,8 @@
             </div>
         </section>
         <!-- END-SALES -->
-        <!-- cards -->
-        <section class="container mb-5">
+            <!-- cards -->
+            <section class="container mb-5">
             <div class="mt-4">
                 <h1 class="fw-bold">
                     لماذا يُعَدُّ <span class="text-blue">Z4U</span>
@@ -408,7 +408,7 @@
                         </h3>
                         <p class="mt-2 fw-bold fs-5 text-black-50 ">
                             يولي نظام Z4U اهتمامًا بالغًا بسلامة بياناتكم على خوادمنا، لذا نستخدم ... </p>
-                        <div class="card-hover  py-4 px-3">
+                        <div class="card-hover  py-1 px-3">
                             <h3 class="fw-bold text-white">
                                 الأمان
                                 <br>
@@ -437,7 +437,7 @@
                         <p class="mt-1 fw-bold fs-5 text-black-50 ">
                             خصِّص النظام بما يتوافق مع مجال عملك من خلال تفعيل التطبيقات ...
                         </p>
-                        <div class="card-hover  py-4 px-3">
+                        <div class="card-hover  py-3  px-3">
                             <h3 class="fw-bold text-white">
                                 تجربة مخصصة
                                 <br>
@@ -517,7 +517,7 @@
                         <p class="mt-2 fw-bold fs-5 text-black-50 ">
                             لكونه نظامًا سحابيًا على خوادم مؤمنة بالكامل، فستجد Z4U في متناول ...
                         </p>
-                        <div class="card-hover  py-4 px-3">
+                        <div class="card-hover  py-1 px-3">
                             <h3 class="fw-bold text-white">
                                 توفير الوقت
                                 <br>
