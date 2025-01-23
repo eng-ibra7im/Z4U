@@ -11,7 +11,7 @@
             </p>
         </div>
         <!-- SALES -->
-        <section class="container mtt-3">
+        <section class="container mt-5">
             <div class="d-flex justify-content-center border-top border-bottom  align-items-center mt-4">
                 <div class="d-flex align-items-center gap-2 border-end p-2 pe-3">
                     <h4 class="fw-bold">يُدفع
