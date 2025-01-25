@@ -121,6 +121,37 @@
         </div>
       </div>
     </section>
+    <div class="container">
+      <p class="fw-bold fs-3 text-black">
+        إذا كان لديك سؤال أو تعليق, أو تمر لتلقى التحية سيسعدنا أن نتلقى بريدك!
+      </p>
+      <div class="row mt-4">
+        <div class="col-md-6 col-12">
+          <div class="card">
+            <h3 class="fw-bold text-blue">
+              الدعم فني
+            </h3>
+            <p class="fw-bold fs-4 text-secondary">
+              هل قابلتك مشكلة مع برنامجنا أو لديك سؤال عن أحد خصائصه راسلنا على <span class="text-blue">
+                support@Z4U.com
+              </span> و سنقوم بالرد عليك خلال ساعات
+            </p>
+          </div>
+        </div>
+        <div class="col-md-6 col-12">
+          <div class="card">
+            <h3 class="fw-bold text-blue">
+              الاستفسارات العامة
+            </h3>
+            <p class="fw-bold fs-4 text-secondary">
+            <span class="text-blue">
+              info@daftra.com
+            </span> و سيقوم القسم المختص بالرد على استفسارك فى خلال <br> 24 ساعة
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
   </main>
 </template>
 
@@ -131,6 +162,10 @@
 form input,
 select {
   height: 45px !important;
+}
+
+.text-blue {
+  color: blue !important;
 }
 
 .bg-blue {

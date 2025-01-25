@@ -15,9 +15,24 @@ const router = createRouter({
       component: () => import("../views/ContactView.vue"),
     },
     {
+      name: "Workperiods",
+      path: "/Workperiods",
+      component: () => import("../views/WorkperiodsView.vue"),
+    },
+    {
       name: "sales",
       path: "/sales",
       component: () => import("../views/SalesView.vue"),
+    },
+    {
+      name: "all_features",
+      path: "/all_features",
+      component: () => import("../views/all_featuresView.vue"),
+    },
+    {
+      name: "feature-category1",
+      path: "/feature-category1",
+      component: () => import("../views/feature-category1View.vue"),
     },
     {
       name: "fatura",
