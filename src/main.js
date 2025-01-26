@@ -38,6 +38,9 @@ import "./utils/LangMounted";
 import WOW from "wow.js";
 import "wow.js/css/libs/animate.css";
 
+import naive from 'naive-ui';
+
+
 // !animate.css
 import "animate.css";
 
@@ -63,6 +66,7 @@ index.dispatch("home/fetchData").then(() => {
             app.use(Toast, options);
             app.use(Vuex);
             app.use(i18n);
+            app.use(naive)
             app.mount("#app");
 
 

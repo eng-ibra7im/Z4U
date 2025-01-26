@@ -394,7 +394,7 @@ html[lang="en"] input[type="number"] {
 }
 
 .n-tabs .n-tabs-rail .n-tabs-capsule {
-  background-color: var(--accent-300);
+  background-color: rgb(37, 37, 240);
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.08);
   color: #fff !important;
   left: 20px;
@@ -455,10 +455,12 @@ html[lang="en"] input[type="number"] {
   color: var(--text-400) !important;
 }
 .n-tabs-tab.n-tabs-tab--active > .n-tabs-tab__label {
-  color: var(--text-400) !important;
+  color: #fff!important;
 }
 .n-tabs-tab > .n-tabs-tab__label {
-  color: var(--text-300) !important;
+  color: blue !important ;
+  font-weight: 900;
+  font-size : 18px;
 }
 
 .n-switch {
