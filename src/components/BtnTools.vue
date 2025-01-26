@@ -66,7 +66,7 @@ export default {
   left: 20px;
   bottom: 20px;
   z-index: 999;
-  background-color: #f5f4de;
+  background-color: rgb(20, 20, 200);
   border-radius: 1000px;
   padding: 5px;
 }

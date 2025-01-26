@@ -35,6 +35,11 @@ const router = createRouter({
       component: () => import("../views/feature-category1View.vue"),
     },
     {
+      name: "service-details",
+      path: "/service-details",
+      component: () => import("../views/servicedetailsVeiw.vue"),
+    },
+    {
       name: "fatura",
       path: "/fatura",
       component: () => import("../views/fauterVeiw.vue"),
