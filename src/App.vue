@@ -39,7 +39,7 @@ export default {
   },
   methods: {
     checkRoute(route) {
-      const hiddenRoutes = ["/Workperiods"]; // ضع هنا المسارات التي لا تريد فيها الـ Navbar والـ Footer
+      const hiddenRoutes = ["/Workperiods" , "/login" , "/register"]; // ضع هنا المسارات التي لا تريد فيها الـ Navbar والـ Footer
       this.hideNavbarFooter = hiddenRoutes.includes(route.path);
     },
   },

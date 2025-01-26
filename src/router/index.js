@@ -40,6 +40,16 @@ const router = createRouter({
       component: () => import("../views/servicedetailsVeiw.vue"),
     },
     {
+      name: "login",
+      path: "/login",
+      component: () => import("../views/LoginView.vue"),
+    },
+    {
+      name: "register",
+      path: "/register",
+      component: () => import("../views/registerView.vue"),
+    },
+    {
       name: "fatura",
       path: "/fatura",
       component: () => import("../views/fauterVeiw.vue"),

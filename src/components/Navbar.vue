@@ -58,10 +58,10 @@
                 </button>
               </li>
                 <div class="d-flex align-items-center gap-2">
-                  <a href="/" class="btn btn-outline-primary fw-bold rounded-1 py-1 px-2 text-center text-md-start"
+                  <a href="/login" class="btn btn-outline-primary fw-bold rounded-1 py-1 px-2 text-center text-md-start"
                     title="دخول" aria-label=" دخول" target="_blank" rel="noopener noreferrer">
                     دخول </a>
-                  <a href="/" class="btn btn-success rounded-1 py-1 px-3 fw-bold text-light text-center text-md-start"
+                  <a href="/register" class="btn btn-success rounded-1 py-1 px-3 fw-bold text-light text-center text-md-start"
                     title="دخول" aria-label=" دخول" target="_blank" rel="noopener noreferrer">ابدء التسجيل مجانا</a>
                 </div>
             </ul>
