@@ -320,18 +320,19 @@
                 </div>
             </section>
         </div>
-              <!-- SALES -->
-              <section class="container mtt-3">
+        <!-- SALES -->
+        <section class="container mtt-3 mb-5">
             <h1 class="text-center fw-bold">اسعار برنامج إدارة المبيعات</h1>
-            <div class="d-flex justify-content-center align-items-center mt-4">
-                <div class="d-flex align-items-center gap-2 border-end p-2">
+
+            <div class="d-md-flex justify-content-center align-items-center mt-4">
+                <div class="d-flex align-items-center justify-content-center gap-2 border-end p-2">
                     <h4 class="fw-bold">يُدفع
                         <p class="text-secondary fs-5 fw-bold mt-1">
                             شهري
                         </p>
                     </h4>
                     <div class="form-check form-switch">
-                        <input class="form-check-input" type="checkbox" id="toggleSwitch">
+                        <input class="form-check-input" type="checkbox" checked id="toggleSwitch">
                     </div>
                     <h4 class="fw-bold">سنوي
                         <p class="text-warning fs-5 fw-bold mt-1">
@@ -339,7 +340,7 @@
                         </p>
                     </h4>
                 </div>
-                <div class="d-flex align-items-center gap-2 border-end p-2">
+                <div class="d-flex align-items-center justify-content-center gap-2 border-end p-2">
                     <h2 class="fw-bold text-center">الأساسية
                         <p class="text-secondary fs-4 fw-bold mt-2">
                             <span class="fs-3 text-black fw-bold"> 489 .50</span> ج.م شهرياً
@@ -349,7 +350,7 @@
                         </span>
                     </h2>
                 </div>
-                <div class="d-flex align-items-center gap-2 border-end p-2">
+                <div class="d-flex align-items-center justify-content-center gap-2 border-end p-2">
                     <h2 class="fw-bold text-center text-blue">المتقدمة
                         <p class="text-secondary fs-4 fw-bold mt-2">
                             <span class="fs-3 text-black fw-bold"> 997.50</span> ج.م شهرياً
@@ -359,12 +360,12 @@
                         </span>
                     </h2>
                 </div>
-                <div class="d-flex align-items-center gap-2  p-2">
+                <div class="d-flex align-items-center justify-content-center gap-2  p-2">
                     <h2 class="fw-bold text-center text-success">الشاملة <span class="fs-4 text-black-50">
                             القيمة الأفضل
                         </span>
                         <p class="text-secondary fs-4 fw-bold mt-2">
-                            <span class="fs-1 text-black fw-bold">1960</span> ج.م شهرياً
+                            <span class="fs-3 text-black fw-bold">1960</span> ج.م شهرياً
                         </p>
                         <span class="text-secondary fs-6 fw-bold">
                             يُدفع <span class="fs-4 text-black fw-bold">23520 ج.م</span>.مسنوياً
@@ -372,6 +373,7 @@
                     </h2>
                 </div>
             </div>
+
             <div class="d-flex align-items-center gap-2 justify-content-center mt-3 w-auto me-auto">
                 <a href="/" class="btn btn-primary rounded-1 pt-2 pb-2 mt-3 fw-bold text-center text-lg-start"
                     title="ابدء الاستخدام مجانا" aria-label="ابدء الاستخدام مجانا " rel="noopener noreferrer">
@@ -412,8 +414,8 @@
                 </div>
             </div>
         </div>
-              <!-- cards -->
-              <section class="container mb-5">
+        <!-- cards -->
+        <section class="container mb-5">
             <div class="mt-4">
                 <h1 class="fw-bold">
                     لماذا يُعَدُّ <span class="text-blue">Z4U</span>
@@ -828,11 +830,12 @@ textarea:focus {
     border: 2px solid var(--accent-200);
   } */
 
-  .parent {
+.parent {
     position: relative;
     cursor: pointer;
     overflow: hidden;
 }
+
 .card-hover {
     background: blue;
     position: absolute;
@@ -845,7 +848,7 @@ textarea:focus {
     transition: 0.2s;
 }
 
-.parent:hover>.card-hover{
+.parent:hover>.card-hover {
     top: 0;
 }
 

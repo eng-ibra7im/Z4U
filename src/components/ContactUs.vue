@@ -14,9 +14,9 @@
       </p>
     </div>
     <!-- input contact -->
-    <section class="form-content container  p-5 pt-4">
+    <section class="container  p-5 pt-4">
       <div class="row shadow-lg ">
-        <div class="col-lg-5 p-3 justify-content-center">
+        <div class="col-lg-5  p-3 justify-content-center">
           <h3 class="fw-bold">
             معلومات الاتصال
           </h3>
@@ -84,7 +84,7 @@
             </span>
           </div>
         </div>
-        <div class="layout col-lg-7 shadow-lg p-3">
+        <div class="layout col-12 col-lg-7 shadow-lg p-3">
           <form>
             <div class="col-sm-12 mb-3">
               <label class="fw-bold fs-4 pb-2">

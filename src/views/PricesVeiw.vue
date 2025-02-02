@@ -12,15 +12,15 @@
         </div>
         <!-- SALES -->
         <section class="container mt-5">
-            <div class="d-flex justify-content-center border-top border-bottom  align-items-center mt-4">
-                <div class="d-flex align-items-center gap-2 border-end p-2 pe-3">
+            <div class="d-md-flex justify-content-center border-top border-bottom  align-items-center mt-4">
+                <div class="d-flex align-items-center justify-content-center gap-2 border-end p-2 pe-3">
                     <h4 class="fw-bold">يُدفع
                         <p class="text-secondary fs-5 fw-bold mt-1">
                             شهري
                         </p>
                     </h4>
                     <div class="form-check form-switch">
-                        <input class="form-check-input" type="checkbox" id="toggleSwitch">
+                        <input class="form-check-input" checked type="checkbox" id="toggleSwitch">
                     </div>
                     <h4 class="fw-bold">سنوي
                         <p class="text-warning fs-5 fw-bold mt-1">
@@ -28,7 +28,7 @@
                         </p>
                     </h4>
                 </div>
-                <div class="d-flex align-items-center gap-2 border-end  pe-4 p-2">
+                <div class="d-flex align-items-center justify-content-center gap-2 border-end  pe-4 p-2">
                     <h2 class="fw-bold text-center">الأساسية
                         <p class="text-secondary fs-4 fw-bold mt-2">
                             <span class="fs-3 text-black fw-bold"> 489 .50</span> ج.م شهرياً
@@ -38,7 +38,7 @@
                         </span>
                     </h2>
                 </div>
-                <div class="d-flex align-items-center gap-2 border-end pe-4 p-2">
+                <div class="d-flex align-items-center justify-content-center gap-2 border-end pe-4 p-2">
                     <h2 class="fw-bold text-center text-blue">المتقدمة
                         <p class="text-secondary fs-4 fw-bold mt-2">
                             <span class="fs-3 text-black fw-bold"> 997.50</span> ج.م شهرياً
@@ -48,12 +48,12 @@
                         </span>
                     </h2>
                 </div>
-                <div class="d-flex align-items-center gap-2  pe-4 p-2">
+                <div class="d-flex align-items-center justify-content-center gap-2  pe-4 p-2">
                     <h2 class="fw-bold text-center text-success">الشاملة <span class="fs-4 text-black-50">
                             القيمة الأفضل
                         </span>
                         <p class="text-secondary fs-4 fw-bold mt-2">
-                            <span class="fs-1 text-black fw-bold">1960</span> ج.م شهرياً
+                            <span class="fs-3 text-black fw-bold">1960</span> ج.م شهرياً
                         </p>
                         <span class="text-secondary fs-6 fw-bold">
                             يُدفع <span class="fs-4 text-black fw-bold">23520 ج.م</span>.مسنوياً
@@ -749,7 +749,7 @@
                     أنت على وشك بدء تجربتك المجانية لمدة 14 يومًا!
                 </p>
             </div>
-            <div class="d-flex align-items-center justify-content-center gap-5 my-5">
+            <div class="d-flex flex-wrap align-items-center justify-content-center gap-5 my-5">
                 <img src="../assets/images/amazon.webp" alt="amazon" class="img-fluid" width="150">
                 <img src="../assets/images/jotun.jpg" alt="jotun" class="img-fluid mb-2" width="150">
                 <img src="../assets/images/azzam.webp" alt="azzam" class="img-fluid" width="150">

@@ -15,7 +15,7 @@
                         <h2 class="fw-bold">
                             المحلات التجارية ونقطة البيع
                             <span>
-                                <i class="bi bi-caret-left"></i>
+                                <i class="bi bi-caret-left-fill"></i>
                             </span>
                         </h2>
                         <p class="fw-semibold text-black-50 mt-2">
@@ -26,8 +26,8 @@
                 <div class="col-md-3 col-12">
                     <div class="card shadow-sm p-2">
                         <h2 class="fw-bold">
-                            الحِرَف والخدمات المهنية <span>
-                                <i class="bi bi-caret-left"></i>
+                            الحِرَف والخدمات  <br>المهنية <span>
+                                <i class="bi bi-caret-left-fill"></i>
                             </span>
                         </h2>
                         <p class="fw-semibold text-black-50 mt-2">
@@ -40,7 +40,7 @@
                         <h2 class="fw-bold">
                             خدمات الأعمال
                             <span>
-                                <i class="bi bi-caret-left"></i>
+                                <i class="bi bi-caret-left-fill"></i>
                             </span>
                         </h2>
                         <p class="fw-semibold text-black-50 mt-2">
@@ -53,7 +53,7 @@
                         <h2 class="fw-bold">
                             الرعاية الطبية
                             <span>
-                                <i class="bi bi-caret-left"></i>
+                                <i class="bi bi-caret-left-fill"></i>
                             </span>
                         </h2>
                         <p class="fw-semibold text-black-50 fs-5 ">
@@ -67,7 +67,7 @@
                         <h2 class="fw-bold">
                             الخدمات اللوجستية
                             <span>
-                                <i class="bi bi-caret-left"></i>
+                                <i class="bi bi-caret-left-fill"></i>
                             </span>
                         </h2>
                         <p class="fw-semibold text-black-50  mt-2">إدارة حسابات المكاتب اللوجستية وشركات الشحن
@@ -78,9 +78,9 @@
                 <div class="col-md-3 col-12">
                     <div class="card shadow-sm p-2">
                         <h2 class="fw-bold">
-                            السياحة والنقل والضيافة
+                            السياحة والنقل <br> والضيافة
                             <span>
-                                <i class="bi bi-caret-left"></i>
+                                <i class="bi bi-caret-left-fill"></i>
                             </span>
                         </h2>
                         <p class="fw-semibold text-black-50 ">
@@ -93,7 +93,7 @@
                         <h2 class="fw-bold">
                             العناية بالجسم واللياقة البدنية
                             <span>
-                                <i class="bi bi-caret-left"></i>
+                                <i class="bi bi-caret-left-fill"></i>
                             </span>
                         </h2>
                         <p class="fw-semibold text-black-50 ">
@@ -106,7 +106,7 @@
                         <h3 class="fw-bold lh-base">
                             المشاريع والمقاولات والاستثمار العقاري
                             <span>
-                                <i class="bi bi-caret-left mt-2"></i>
+                                <i class="bi bi-caret-left-fill mt-2"></i>
                             </span>
                         </h3>
                         <p class="fw-semibold text-black-50  ">
@@ -119,7 +119,7 @@
                         <h2 class="fw-bold">
                             التعليم
                             <span>
-                                <i class="bi bi-caret-left mt-2"></i>
+                                <i class="bi bi-caret-left-fill mt-2"></i>
                             </span>
                         </h2>
                         <p class="fw-semibold text-black-50 ">
@@ -131,7 +131,7 @@
                         <h2 class="fw-bold">
                             السيارات
                             <span>
-                                <i class="bi bi-caret-left mt-2"></i>
+                                <i class="bi bi-caret-left-fill mt-2"></i>
                             </span>
                         </h2>
                         <p class="fw-semibold text-black-50 ">

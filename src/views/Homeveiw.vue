@@ -600,234 +600,234 @@
         </div>
       </div>
     </div>
-         <!-- cards -->
-         <section class="container mb-5">
-            <div class="mt-4">
-                <h1 class="fw-bold">
-                    لماذا يُعَدُّ <span class="text-blue">Z4U</span>
-                    <br>
-                    شريكًا مثاليًا لأعمالك؟
-                </h1>
-                <p class="fw-bold text-black fs-4 mt-3">اكتشف كيف يساعدك نظام Z4U في إدارة أعمالك بكفاءة وفعالية</p>
+    <!-- cards -->
+    <section class="container mb-5">
+      <div class="mt-4">
+        <h1 class="fw-bold">
+          لماذا يُعَدُّ <span class="text-blue">Z4U</span>
+          <br>
+          شريكًا مثاليًا لأعمالك؟
+        </h1>
+        <p class="fw-bold text-black fs-4 mt-3">اكتشف كيف يساعدك نظام Z4U في إدارة أعمالك بكفاءة وفعالية</p>
+      </div>
+      <div class="row mt-3  g-4">
+        <div class="col-lg-3 col-md-4 col-12">
+          <div class="parent card shadow-lg p-3 h-100" style="border-radius: 1.5rem;">
+            <img src="../assets/images/p_icon1.svg" alt="p_icon1" width="50" height="50" class="img-fluid">
+            <h3 class="fw-bold">
+              دعم فني
+              <br>
+              متوفر مجانًا
+            </h3>
+            <p class="mt-2 fw-bold fs-5 text-black-50 ">
+              احصل على دعم فني من فريق Z4U للرد على استفساراتكم ....
+            </p>
+            <div class="card-hover  py-md-2 py-4  py-lg-4 px-3">
+              <h3 class="fw-bold text-white">
+                دعم فني
+                <br>
+                متوفر مجانًا
+              </h3>
+              <p class="mt-2 fw-bold  fs-5 text-white">
+                صل على دعم فني مجاني من فريق مكرَّس للرد على استفساراتكم ومساعدتكم في حال واجهتم أي
+                مشكلات؛ عبر التواصل
+                من خلال الهاتف أو البريد الإلكتروني على مدار اليوم، وذلك لضمان حصولكم على تجربة مثالية
+                عند استخدام نظام
+                Z4U.
+              </p>
             </div>
-            <div class="row mt-3  g-4">
-                <div class="col-lg-3 col-md-4 col-12">
-                    <div class="parent card shadow-lg p-3 h-100" style="border-radius: 1.5rem;">
-                        <img src="../assets/images/p_icon1.svg" alt="p_icon1" width="50" height="50" class="img-fluid">
-                        <h3 class="fw-bold">
-                            دعم فني
-                            <br>
-                            متوفر مجانًا
-                        </h3>
-                        <p class="mt-2 fw-bold fs-5 text-black-50 ">
-                            احصل على دعم فني من فريق Z4U للرد على استفساراتكم ....
-                        </p>
-                        <div class="card-hover  py-4 px-3">
-                            <h3 class="fw-bold text-white">
-                                دعم فني
-                                <br>
-                                متوفر مجانًا
-                            </h3>
-                            <p class="mt-2 fw-bold fs-5 text-white">
-                                صل على دعم فني مجاني من فريق مكرَّس للرد على استفساراتكم ومساعدتكم في حال واجهتم أي
-                                مشكلات؛ عبر التواصل
-                                من خلال الهاتف أو البريد الإلكتروني على مدار اليوم، وذلك لضمان حصولكم على تجربة مثالية
-                                عند استخدام نظام
-                                Z4U.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-12">
-                    <div class="parent card shadow-lg p-3 h-100  " style="border-radius: 1.5rem;">
-                        <img src="../assets/images/p_icon3.svg" alt="p_icon2" width="50" height="50" class="img-fluid">
-                        <h3 class="fw-bold">
-                            الأمان
-                            <br>
-                            والحماية
-                        </h3>
-                        <p class="mt-2 fw-bold fs-5 text-black-50 ">
-                            يولي نظام Z4U اهتمامًا بالغًا بسلامة بياناتكم على خوادمنا، لذا نستخدم ... </p>
-                        <div class="card-hover  py-1 px-3">
-                            <h3 class="fw-bold text-white">
-                                الأمان
-                                <br>
-                                والحماية
-                            </h3>
-                            <p class="mt-2 fw-bold fs-5 text-white">
-                                يولي نظام Z4U اهتمامًا بالغًا بسلامة بياناتكم على خوادمنا، لذا نستخدم خوادم مؤمنة
-                                بالكامل ومشفرة
-                                بتقنية
-                                SSL 256 bit مع عدة طبقات من الحماية، إلى جانب وجود الخوادم في قارتين مختلفتين مع إجراءات
-                                سلامة إضافية
-                                لمواقعها وقيود قوية على صلاحية الوصول إلى البيانات، بالإضافة إلى عمليات نسخ احتياطي
-                                دورية.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-12">
-                    <div class="parent card shadow-lg p-3 h-100  " style="border-radius: 1.5rem;">
-                        <img src="../assets/images/p_icon2.svg" alt="p_icon2" width="50" height="50" class="img-fluid">
-                        <h3 class="fw-bold">
-                            تجربة مخصصة
-                            <br>
-                            بالكامل
-                        </h3>
-                        <p class="mt-1 fw-bold fs-5 text-black-50 ">
-                            خصِّص النظام بما يتوافق مع مجال عملك من خلال تفعيل التطبيقات ...
-                        </p>
-                        <div class="card-hover  py-3  px-3">
-                            <h3 class="fw-bold text-white">
-                                تجربة مخصصة
-                                <br>
-                                بالكامل
-                            </h3>
-                            <p class="mt-2 fw-bold fs-5 text-white">
-                                خصِّص النظام بما يتوافق مع مجال عملك من خلال تفعيل التطبيقات المطلوبة فقط، وخصِّص واجهة
-                                الاستخدام لتلائم
-                                هوية علامتك التجارية وألوانها، إلى جانب التعديل في قوالب الفواتير وعروض الأسعار وغيرها
-                                من المطبوعات
-                                للحصول على تجربة مثالية مخصصة لاحتياجاتك.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-12">
-                    <div class="parent card shadow-lg p-3 h-100  " style="border-radius: 1.5rem;">
-                        <img src="../assets/images/p_icon4.svg" alt="p_icon2" width="50" height="50" class="img-fluid">
-                        <h3 class="fw-bold">
-                            واجهة سهلة
-                            <br>
-                            الاستخدام
-                        </h3>
-                        <p class="mt-2 fw-bold fs-5 text-black-50 ">
-                            أدِر أعمالك بسهولة مع العديد من الخصائص والأدوات المضمّنة في ...
-                        </p>
-                        <div class="card-hover  py-4 px-3">
-                            <h3 class="fw-bold text-white">
-                                واجهة سهلة
-                                <br>
-                                الاستخدام
-                            </h3>
-                            <p class="mt-2 fw-bold fs-5 text-white">
-                                أدِر أعمالك بسهولة مع العديد من الخصائص والأدوات المضمّنة في واجهة سهلة الاستخدام بخطوات
-                                بسيطة، إذ لا
-                                تحتاج إلى امتلاك معرفة عميقة بأنظمة تخطيط الموارد المؤسسية أو طرق المحاسبة المعقدة من
-                                أجل العمل على أي
-                                من تطبيقات النظام.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-12">
-                    <div class="parent card shadow-lg p-3 h-100  " style="border-radius: 1.5rem;">
-                        <img src="../assets/images/p_icon5.svg" alt="p_icon2" width="50" height="50" class="img-fluid">
-                        <h3 class="fw-bold">
-                            توفير الوقت
-                            <br>
-                            والجهد
-                        </h3>
-                        <p class="mt-2 fw-bold fs-5 text-black-50 ">
-                            تابع مؤشرات أعمالك بدقة وأدِر عملياتك بفعالية في خطوات بسيطة ....
-                        </p>
-                        <div class="card-hover  py-4 px-3">
-                            <h3 class="fw-bold text-white">
-                                توفير الوقت
-                                <br>
-                                والجهد
-                            </h3>
-                            <p class="mt-2 fw-bold fs-5 text-white">
-                                تابع مؤشرات أعمالك بدقة وأدِر عملياتك بفعالية في خطوات بسيطة من دون استغراق الكثير من
-                                الوقت أو بذل مجهود
-                                كبير في تنفيذها، وذلك بفضل واجهة المستخدم البسيطة والعمليات المؤتمتة التي يتميز بها نظام
-                                Z4U.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-12">
-                    <div class="parent card shadow-lg p-3 h-100  " style="border-radius: 1.5rem;">
-                        <img src="../assets/images/p_icon6.svg" alt="p_icon2" width="50" height="50" class="img-fluid">
-                        <h3 class="fw-bold">
-                            من أي مكان
-                            <br>
-                            وفي أي وقت
-                        </h3>
-                        <p class="mt-2 fw-bold fs-5 text-black-50 ">
-                            لكونه نظامًا سحابيًا على خوادم مؤمنة بالكامل، فستجد Z4U في متناول ...
-                        </p>
-                        <div class="card-hover  py-1 px-3">
-                            <h3 class="fw-bold text-white">
-                                توفير الوقت
-                                <br>
-                                والجهد
-                            </h3>
-                            <p class="mt-2 fw-bold fs-5 text-white">
-                                لكونه نظامًا سحابيًا على خوادم مؤمنة بالكامل، فستجد Z4U في متناول يديك دائماً لمساعدتك
-                                في إدارة أعمالك
-                                بفعالية على مدار الساعة وطوال أيام الأسبوع، مع إمكانية إصدار الفواتير عبر تطبيق سطح
-                                المكتب في حال انقطاع
-                                الاتصال بالإنترنت. قم بمتابعة أعمالك وأدِرها من أي مكان وفي أي وقت عبر أي جهاز متاح
-                                لديك.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-12">
-                    <div class="parent card shadow-lg p-3 h-100  " style="border-radius: 1.5rem;">
-                        <img src="../assets/images/p_icon7.svg" alt="p_icon2" width="50" height="50" class="img-fluid">
-                        <h3 class="fw-bold">
-                            تحديثات
-                            دورية مجانًا <br>
-                            دورية مجانًا </h3>
-                        <p class="mt-2 fw-bold fs-5 text-black-50 ">
-                            يعمل Z4U باستمرار على تطوير النظام بأكمله وتحديث تطبيقاته ....
-                        </p>
-                        <div class="card-hover  py-4 px-3">
-                            <h3 class="fw-bold text-white">
-                                تحديثات
-                                دورية مجانًا <br>
-                                دورية مجانًا
-                            </h3>
-                            <p class="mt-2 fw-bold fs-5 text-white">
-                                يعمل Z4U باستمرار على تطوير النظام بأكمله وتحديث تطبيقاته وميزاته لمواكبة متطلبات
-                                الأعمال بما في ذلك
-                                إضافة الخصائص والأدوات الجديدة التي من شأنها تسهيل إدارة أعمالك على نحو فعال، فيما ستحصل
-                                على كل هذه
-                                التحديثات مجانًا.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-12">
-                    <div class="parent card shadow-lg p-3 h-100  " style="border-radius: 1.5rem;">
-                        <img src="../assets/images/p_icon8.svg" alt="p_icon2" width="50" height="50" class="img-fluid">
-                        <h3 class="fw-bold">
-                            سعر
-                            <br>
-                            اقتصادي
-                        </h3>
-                        <p class="mt-2 fw-bold fs-5 text-black-50 ">
-                            احصل على نظام متكامل يتضمن كل ما تحتاجه من تطبيقات لتلبية كل ...
-                        </p>
-                        <div class="card-hover  py-4 px-3">
-                            <h3 class="fw-bold text-white">
-                                سعر
-                                <br>
-                                اقتصادي
-                            </h3>
-                            <p class="mt-2 fw-bold fs-5 text-white">
-                                احصل على نظام متكامل يتضمن كل ما تحتاجه من تطبيقات لتلبية كل احتياجات أعمالك باشتراك
-                                شهري بسيط من دون
-                                الحاجة إلى مدفوعات إضافية لكل تطبيق على حدة، إلى جانب دعم فني من متخصصين وتحديثات
-                                متواصلة مجانًا.
-                            </p>
-                        </div>
-                    </div>
-                </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-12">
+          <div class="parent card shadow-lg p-3 h-100  " style="border-radius: 1.5rem;">
+            <img src="../assets/images/p_icon3.svg" alt="p_icon2" width="50" height="50" class="img-fluid">
+            <h3 class="fw-bold">
+              الأمان
+              <br>
+              والحماية
+            </h3>
+            <p class="mt-2 fw-bold fs-5 text-black-50 ">
+              يولي نظام Z4U اهتمامًا بالغًا بسلامة بياناتكم على خوادمنا، لذا نستخدم ... </p>
+            <div class="card-hover h-100 py-2 px-3">
+              <h3 class="fw-bold text-white">
+                الأمان
+                <br>
+                والحماية
+              </h3>
+              <p class="mt-3 fw-bold fs-6 text-white">
+                يولي نظام Z4U اهتمامًا بالغًا بسلامة بياناتكم على خوادمنا، لذا نستخدم خوادم مؤمنة
+                بالكامل ومشفرة
+                بتقنية
+                SSL 256 bit مع عدة طبقات من الحماية، إلى جانب وجود الخوادم في قارتين مختلفتين مع إجراءات
+                سلامة إضافية
+                لمواقعها وقيود قوية على صلاحية الوصول إلى البيانات، بالإضافة إلى عمليات نسخ احتياطي
+                دورية.
+              </p>
             </div>
-        </section>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-12">
+          <div class="parent card shadow-lg p-3 h-100  " style="border-radius: 1.5rem;">
+            <img src="../assets/images/p_icon2.svg" alt="p_icon2" width="50" height="50" class="img-fluid">
+            <h3 class="fw-bold">
+              تجربة مخصصة
+              <br>
+              بالكامل
+            </h3>
+            <p class="mt-1 fw-bold fs-5 text-black-50 ">
+              خصِّص النظام بما يتوافق مع مجال عملك من خلال تفعيل التطبيقات ...
+            </p>
+            <div class="card-hover h-100  py-3  px-3">
+              <h3 class="fw-bold text-white">
+                تجربة مخصصة
+                <br>
+                بالكامل
+              </h3>
+              <p class="mt-2 fw-bold fs-6 text-white">
+                خصِّص النظام بما يتوافق مع مجال عملك من خلال تفعيل التطبيقات المطلوبة فقط، وخصِّص واجهة
+                الاستخدام لتلائم
+                هوية علامتك التجارية وألوانها، إلى جانب التعديل في قوالب الفواتير وعروض الأسعار وغيرها
+                من المطبوعات
+                للحصول على تجربة مثالية مخصصة لاحتياجاتك.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-12">
+          <div class="parent card shadow-lg p-3 h-100  " style="border-radius: 1.5rem;">
+            <img src="../assets/images/p_icon4.svg" alt="p_icon2" width="50" height="50" class="img-fluid">
+            <h3 class="fw-bold">
+              واجهة سهلة
+              <br>
+              الاستخدام
+            </h3>
+            <p class="mt-2 fw-bold fs-5 text-black-50 ">
+              أدِر أعمالك بسهولة مع العديد من الخصائص والأدوات المضمّنة في ...
+            </p>
+            <div class="card-hover  py-4 px-3">
+              <h3 class="fw-bold text-white">
+                واجهة سهلة
+                <br>
+                الاستخدام
+              </h3>
+              <p class="mt-2 fw-bold fs-5 text-white">
+                أدِر أعمالك بسهولة مع العديد من الخصائص والأدوات المضمّنة في واجهة سهلة الاستخدام بخطوات
+                بسيطة، إذ لا
+                تحتاج إلى امتلاك معرفة عميقة بأنظمة تخطيط الموارد المؤسسية أو طرق المحاسبة المعقدة من
+                أجل العمل على أي
+                من تطبيقات النظام.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-12">
+          <div class="parent card shadow-lg p-3 h-100  " style="border-radius: 1.5rem;">
+            <img src="../assets/images/p_icon5.svg" alt="p_icon2" width="50" height="50" class="img-fluid">
+            <h3 class="fw-bold">
+              توفير الوقت
+              <br>
+              والجهد
+            </h3>
+            <p class="mt-2 fw-bold fs-5 text-black-50 ">
+              تابع مؤشرات أعمالك بدقة وأدِر عملياتك بفعالية في خطوات بسيطة ....
+            </p>
+            <div class="card-hover  py-4 px-3">
+              <h3 class="fw-bold text-white">
+                توفير الوقت
+                <br>
+                والجهد
+              </h3>
+              <p class="mt-2 fw-bold fs-5 text-white">
+                تابع مؤشرات أعمالك بدقة وأدِر عملياتك بفعالية في خطوات بسيطة من دون استغراق الكثير من
+                الوقت أو بذل مجهود
+                كبير في تنفيذها، وذلك بفضل واجهة المستخدم البسيطة والعمليات المؤتمتة التي يتميز بها نظام
+                Z4U.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-12">
+          <div class="parent card shadow-lg p-3 h-100  " style="border-radius: 1.5rem;">
+            <img src="../assets/images/p_icon6.svg" alt="p_icon2" width="50" height="50" class="img-fluid">
+            <h3 class="fw-bold">
+              من أي مكان
+              <br>
+              وفي أي وقت
+            </h3>
+            <p class="mt-2 fw-bold fs-5 text-black-50 ">
+              لكونه نظامًا سحابيًا على خوادم مؤمنة بالكامل، فستجد Z4U في متناول ...
+            </p>
+            <div class="card-hover  py-1 px-3">
+              <h3 class="fw-bold text-white">
+                توفير الوقت
+                <br>
+                والجهد
+              </h3>
+              <p class="mt-2 fw-bold fs-5 text-white">
+                لكونه نظامًا سحابيًا على خوادم مؤمنة بالكامل، فستجد Z4U في متناول يديك دائماً لمساعدتك
+                في إدارة أعمالك
+                بفعالية على مدار الساعة وطوال أيام الأسبوع، مع إمكانية إصدار الفواتير عبر تطبيق سطح
+                المكتب في حال انقطاع
+                الاتصال بالإنترنت. قم بمتابعة أعمالك وأدِرها من أي مكان وفي أي وقت عبر أي جهاز متاح
+                لديك.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-12">
+          <div class="parent card shadow-lg p-3 h-100  " style="border-radius: 1.5rem;">
+            <img src="../assets/images/p_icon7.svg" alt="p_icon2" width="50" height="50" class="img-fluid">
+            <h3 class="fw-bold">
+              تحديثات
+              دورية مجانًا <br>
+              دورية مجانًا </h3>
+            <p class="mt-2 fw-bold fs-5 text-black-50 ">
+              يعمل Z4U باستمرار على تطوير النظام بأكمله وتحديث تطبيقاته ....
+            </p>
+            <div class="card-hover  py-4 px-3">
+              <h3 class="fw-bold text-white">
+                تحديثات
+                دورية مجانًا <br>
+                دورية مجانًا
+              </h3>
+              <p class="mt-2 fw-bold fs-5 text-white">
+                يعمل Z4U باستمرار على تطوير النظام بأكمله وتحديث تطبيقاته وميزاته لمواكبة متطلبات
+                الأعمال بما في ذلك
+                إضافة الخصائص والأدوات الجديدة التي من شأنها تسهيل إدارة أعمالك على نحو فعال، فيما ستحصل
+                على كل هذه
+                التحديثات مجانًا.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-12">
+          <div class="parent card shadow-lg p-3 h-100  " style="border-radius: 1.5rem;">
+            <img src="../assets/images/p_icon8.svg" alt="p_icon2" width="50" height="50" class="img-fluid">
+            <h3 class="fw-bold">
+              سعر
+              <br>
+              اقتصادي
+            </h3>
+            <p class="mt-2 fw-bold fs-5 text-black-50 ">
+              احصل على نظام متكامل يتضمن كل ما تحتاجه من تطبيقات لتلبية كل ...
+            </p>
+            <div class="card-hover  py-4 px-3">
+              <h3 class="fw-bold text-white">
+                سعر
+                <br>
+                اقتصادي
+              </h3>
+              <p class="mt-2 fw-bold fs-5 text-white">
+                احصل على نظام متكامل يتضمن كل ما تحتاجه من تطبيقات لتلبية كل احتياجات أعمالك باشتراك
+                شهري بسيط من دون
+                الحاجة إلى مدفوعات إضافية لكل تطبيق على حدة، إلى جانب دعم فني من متخصصين وتحديثات
+                متواصلة مجانًا.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
     <section class="container">
       <div class="text-center">
         <h1 class="fw-bold lh-base">
@@ -1007,10 +1007,17 @@ select {
 
 .circles3 {
   position: absolute;
-  contain: "";
   left: -130px;
   top: 5px;
 }
+
+@media screen and (max-width: 767px) {
+  .circles3 {
+    left: -170px;
+    top: -180px;
+  }
+}
+
 
 .circles2 {
   position: absolute;
@@ -1062,24 +1069,25 @@ textarea:focus {
 } */
 
 .parent {
-    position: relative;
-    cursor: pointer;
-    overflow: hidden;
-}
-.card-hover {
-    background: blue;
-    position: absolute;
-    top: 100%;
-    right: 0px;
-    border-top-right-radius: 1.5rem !important;
-    border-bottom-left-radius: 1.5rem !important;
-    cursor: pointer;
-    z-index: 1;
-    transition: 0.2s;
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
 }
 
-.parent:hover>.card-hover{
-    top: 0;
+.card-hover {
+  background: blue;
+  position: absolute;
+  top: 100%;
+  right: 0px;
+  border-top-right-radius: 1.5rem !important;
+  border-bottom-left-radius: 1.5rem !important;
+  cursor: pointer;
+  z-index: 1;
+  transition: 0.2s;
+}
+
+.parent:hover>.card-hover {
+  top: 0;
 }
 
 
