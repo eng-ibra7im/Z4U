@@ -1,53 +1,44 @@
 <template>
     <main>
-        <div class="container mt">
+        <div class="container mt ">
             <div class="row">
                 <div class="col-lg-5 col-md-6 col-12">
-                    <p class="d-flex align-items-center fw-bold fs-4 gap-2 mb-3">
-                        <span>
-                            <i class="bi bi-arrow-right-circle-fill"></i>
-                        </span>
-                        الرجوع
-                    </p>
-                    <h1 class="fw-bold text-decoration-underline ">
-                        المبيعات
-                    </h1>
-                    <div class="mt-4">
-                        <div class="card col-lg-6 col-12 shadow-lg">
-                            <p class="fw-bold fs-5 px-4 mt-2">
-                                    نقاط البيع
-                            </p>
-                        </div>
-                        <div class="card col-lg-6 col-12 shadow-lg  ">
-                            <p class="fw-bold fs-5 px-4 mt-2 ">
-                                الفواتير الإلكترونية
-                            </p>
-                        </div>
-                        <div class="card col-lg-6 col-12 shadow-lg ">
-                            <p class="fw-bold fs-5 px-3 mt-2 ">
-                                المبيعات المستهدفة والعمولات
-                            </p>
-                        </div>
-                        <div class="card col-lg-6 col-12 shadow-lg ">
-                            <p class="fw-bold fs-5 px-3 mt-2 ">
-                                إدارة الأقساط
-                            </p>
-                        </div>
-                        <div class="card col-lg-6 col-12 shadow-lg ">
-                            <p class="fw-bold fs-5 px-3 mt-2 ">
-                                إدارة التأمينات
-                            </p>
-                        </div>
-                        <div class="card col-lg-6 col-12 shadow-lg ">
-                            <p class="fw-bold fs-5 px-3 mt-2 ">
-                                العروض
-                            </p>
+                    <div class="asidebar sticky-top ">
+                        <p class="d-flex align-items-center fw-bold fs-4 gap-2 mb-3">
+                            <span>
+                                <i class="bi bi-arrow-right-circle-fill"></i>
+                            </span>
+                            الرجوع
+                        </p>
+                        <h1 class="fw-bold text-decoration-underline ">
+                            المبيعات
+                        </h1>
+                        <div class="mt-4">
+                            <div class="card col-lg-6 col-12 shadow-lg">
+                                <a href="#heading1" class="fw-bold fs-5 px-4 py-2">نقاط البيع</a>
+                            </div>
+                            <div class="card col-lg-6 col-12 shadow-lg">
+                                <a href="#heading2" class="fw-bold fs-5 px-4 py-2">الفواتير الإلكترونية</a>
+                            </div>
+                            <div class="card col-lg-6 col-12 shadow-lg">
+                                <a href="#heading3" class="fw-bold fs-5 px-4 py-2">المبيعات المستهدفة والعمولات</a>
+                            </div>
+                            <div class="card col-lg-6 col-12 shadow-lg">
+                                <a href="#heading4" class="fw-bold fs-5 px-4 py-2">إدارة الأقساط</a>
+                            </div>
+                            <div class="card col-lg-6 col-12 shadow-lg">
+                                <a href="#heading5" class="fw-bold fs-5 px-4 py-2">إدارة التأمينات</a>
+                            </div>
+                            <div class="card col-lg-6 col-12 shadow-lg">
+                                <a href="#heading6" class="fw-bold fs-5 px-4 py-2">العروض</a>
+                            </div>
                         </div>
                     </div>
                 </div>
+
                 <div class="col-md-6 col-12">
                     <div class="row g-3 overflow-y-scroll">
-                        <h2 class="my-4 heading">
+                        <h2 class="my-4 heading" id="heading1">
                             نقاط البيع
                         </h2>
                         <div class="d-lg-flex gap-3">
@@ -188,31 +179,62 @@
         </div>
     </main>
 </template>
-
 <script>
 import PageTitle from "../utils/PageTitle";
+
 export default {
     name: "sales_features",
     mounted() {
-        PageTitle(" المبيعات ", "sales");
+        // تغيير عنوان الصفحة عند التفاعل مع المكون
+        PageTitle("المبيعات", "sales");
+
+        // التعامل مع التبويبات Bootstrap لتحديث الـ ScrollSpy
         document.querySelectorAll('#nav-tab>[data-bs-toggle="tab"]').forEach(el => {
             el.addEventListener('shown.bs.tab', () => {
-                const target = el.getAttribute('data-bs-target')
-                const scrollElem = document.querySelector(`${target} [data-bs-spy="scroll"]`)
-                bootstrap.ScrollSpy.getOrCreateInstance(scrollElem).refresh()
-            })
+                const target = el.getAttribute('data-bs-target');
+                const scrollElem = document.querySelector(`${target} [data-bs-spy="scroll"]`);
+                bootstrap.ScrollSpy.getOrCreateInstance(scrollElem).refresh();
+            });
         });
+
+        // تفعيل ScrollSpy
         const scrollSpy = new bootstrap.ScrollSpy(document.body, {
             target: '#navbar-example'
-        })
-    },
+        });
 
+        // التفاعل مع DOM لتفعيل الكلاس Active عند التواجد في الصفحة المناسبة
+        let sidebarItems = document.querySelectorAll(".asidebar .card");
+
+        // احصل على عنوان الصفحة الحالية
+        let currentHeading = document.querySelector(".heading").innerText.trim();
+
+        // التحقق من تطابق العنوان مع عنصر القائمة الجانبية
+        sidebarItems.forEach(item => {
+            if (item.innerText.trim() === currentHeading) {
+                item.classList.add("active");
+            } else {
+                item.classList.remove("active");
+            }
+        });
+    },
 };
 </script>
+
 
 <style scoped>
 .mt {
     margin-top: 7rem;
+}
+
+
+.asidebar .card.active {
+    background-color: #007bff;
+    /* لون خلفية */
+    color: white;
+    /* لون النص */
+    font-weight: bold;
+    border-left: 5px solid #0056b3;
+    /* شريط جانبي */
 }
 
 
@@ -221,7 +243,8 @@ export default {
     font-weight: 900;
 }
 
-.card {
+.card,
+a {
     border-radius: 1.2rem;
     cursor: pointer;
     transition: 0.2s all linear;
@@ -229,7 +252,7 @@ export default {
     transition: 0.2s all linear;
 }
 
-.card:hover {
+.card:hover>a {
     background: blue !important;
     color: #fff !important;
     transform: translateX(10px);

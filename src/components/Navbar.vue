@@ -1,8 +1,8 @@
 <template>
   <main>
     <nav>
-      <div class="container">
-        <div class="align-items-center d-flex justify-content-between ">
+      <div class="container ">
+        <div class="align-items-center d-flex justify-content-between  ">
           <a href="/" title="nav.home" aria-label="nav-home">
             <img src="../../public/Z4U_White.png" width="110" height="80" class="img-fluid" alt="logo" style="max-width: 200px;" />
           </a>
